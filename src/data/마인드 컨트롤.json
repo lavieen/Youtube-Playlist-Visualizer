@@ -1,0 +1,1154 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "dyzz4epnW_Q",
+    "videoPublishedAt" : "2019-01-12T03:24:03.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/33kUjcf-0nGG_MzAIgH7W1Fh7Us\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다 : ) 저도 그림을 그리면서 두려울 때가 참 많았는데요, 그런 제게 효과적이었던 마인드 컨트롤 방법 10가지를 영상으로 준비해봤어요. 지금 인후염이라 목소리가 조금 매끄럽지 않습니다 ㅠ_ㅠ 양해부탁드려요- 다들 따듯한 댓글 많이 달아주셔서 영상을 만들면서도 힘이 나네요. 앞으로도 좀 더 다양하고 여러분들께 도움이 많이 될만한 영상 준비하겠습니다 :D 즐겁게 감상해주세요~\n\n\n인스타그램도 놀러오세요!\nhttps://www.instagram.com/leeyeonstein\n\n브런치에 종종 글도 씁니다.\nhttps://brunch.co.kr/@wo00ow",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 0,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "dyzz4epnW_Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/dyzz4epnW_Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/dyzz4epnW_Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/dyzz4epnW_Q/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/dyzz4epnW_Q/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/dyzz4epnW_Q/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG] 겁내지 않고 그림 그리는 10가지 방법 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "slBz809O6Kw",
+    "videoPublishedAt" : "2018-12-27T16:11:02.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/F-d2GCAaSNDRu2qiy6nc_6O_AUU\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "+중간에 실수로 반복된 영상이 들어갑니당 ㅠㅠ\n\n안녕하세요, 이연입니다. 오늘은 영상을 만들면서 허심탄회하게 이것저것 저의 이야기도 해보고... 정답은 아니지만 도움이 될 수도 있는 작은 조언을 담아봤어요. 그림을 시작하는 분, 아니면 저처럼 오래 그려서 권태기가 온 분들이 보시면 공감하실 수 있을것 같아요 :D\n\n\n인스타그램 / https://www.instagram.com/leeyeonstein\n\n노래 / https://www.youtube.com/watch?v=b6jK2t3lcRs\nhttps://www.youtube.com/watch?v=vpssnpH_H4c",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 1,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "slBz809O6Kw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/slBz809O6Kw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/slBz809O6Kw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/slBz809O6Kw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/slBz809O6Kw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/slBz809O6Kw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "그림을 잘 그리고 싶다면 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CRhdJJEQI4w",
+    "videoPublishedAt" : "2019-01-27T13:16:45.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/sPud4MYPQA-C6PogkGsurGlDXks\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 빨리 다음주가 지나서 명절 왔으면 좋겠어요... 다들 같은 마음일거라 생각... 이번엔 제가 '그림 어떤 마음으로 그리나요' 영상에서 조금 더 내용을 보충해서 그림 그리는 이유라는 주제로 컨텐츠를 만들어봤어요. 관성처럼 그린다고 했지만 솔직히 그림은 의식하지 않으면 손 놓기 딱 좋은 그런 일이니까요. 그럼에도 꾸역꾸역 그려내는 이유가 저도 궁금해서 고찰을 좀 해봤습니다. 그림은 프리다 칼로 초상화에요. 즐겁게 봐주세요 : )\n\n*MUSIC\nWhere Silence Is Nonexistent by A Himitsu https://soundcloud.com/a-himitsu\nCreative Commons — Attribution 3.0 Unported— CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic promoted by Audio Library https://youtu.be/sXi_NANO3tA\nS",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 2,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CRhdJJEQI4w"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CRhdJJEQI4w/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CRhdJJEQI4w/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/CRhdJJEQI4w/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CRhdJJEQI4w/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CRhdJJEQI4w/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG] 그림을 그리는 이유에 대하여 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "TSZoj3AFdu0",
+    "videoPublishedAt" : "2019-02-02T14:41:45.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/eomR2yuHfLtPT2LtzU1LrT9-FLw\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "예전에 사둔 재료를 우연히 발견해서 그려봤는데, 콘테인줄 알았지만 목탄인 것 같기도 하고 아직 헷갈립니다. 화방에 가서 둘 다 새로 사왔으니 한 번 써보고 리뷰할게요. 그게 다음 영상이 될 것 같습니다.\n(정답)목탄이었습니다\n\n새해 복 많이 받으세요!",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 3,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "TSZoj3AFdu0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/TSZoj3AFdu0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/TSZoj3AFdu0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/TSZoj3AFdu0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/TSZoj3AFdu0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/TSZoj3AFdu0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "상상해서 그리냐는 질문에 대한 답변 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lSgWNO0-LMo",
+    "videoPublishedAt" : "2019-03-17T04:21:55.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/cNCztliIfg74wdW1rbsy49-WmBk\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 오늘 점심으로 박막례 할머니 간장국수를 먹었는데 진짜 맛있었어요. 여러분도 꼭 해보세요!\n\n사용한 노트 이름은 하네뮬레(풍경화) 이고, 딥펜은 선물받은거라 출처는 모르겠습니다.\n\n항상 감사합니다. :)\n\n\n\n\ninstagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 4,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lSgWNO0-LMo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lSgWNO0-LMo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lSgWNO0-LMo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/lSgWNO0-LMo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lSgWNO0-LMo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/lSgWNO0-LMo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "그림을 그리는데 필요한 7가지들 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "O54_-41IOB4",
+    "videoPublishedAt" : "2019-04-20T08:13:37.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Rh80E4auW3DtONxY01Htr4TIS8I\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요! 제가 구독자 10만이라니... 시민들이 알아볼수도 있으니까 앞으로 선글라스와 마스크 꼭 착용하고 다녀야겠습니다. 농담이고요. 믿기지 않아서.. 안믿고 있어요. ㅠ ㅠ ㅠ 감사합니다. 영상 만드는 일은 해도 해도 시간이 줄지 않지만 구독자 여러분이 저의 원동력이에요. 묵묵히 열심히 하겠습니다. 믿고 함께해주셔요 :D\n\n\n+ 야심차게 1080p로 준비해봤습니다. \n\n\nhttps://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 5,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "O54_-41IOB4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/O54_-41IOB4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/O54_-41IOB4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/O54_-41IOB4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/O54_-41IOB4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/O54_-41IOB4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG]그림을 혼자 공부하는 분들을 위한 Q&A  / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bgkAejlTMqI",
+    "videoPublishedAt" : "2019-04-28T00:32:48.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vpVqfjxSmWvb7k9xFnoD6gLHgqE\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "+커뮤니티 자막 제공해주신 구독자님 깊이 감사합니다😭❤️\n\n\n안녕하세요, 이연입니다. :) 저는 항상 자기 전에 그림일기를 그리는데요, 제가 어떻게 그림일기를 시작하게 됐고 어떤 효과를 누렸는지 여러분과 함께 공유하고 싶어서 영상을 만들어봤어요. 그림을 당장 시작하고 싶지만 뭐부터 할지 막막한 분들께 그림일기를 추천드리고 싶어요. 초등학생때도 해봤으니까요! 충분히 하실 수 있고, 또한 그때와는 다르게 분명 재밌게 하실 수 있을 거예요 :D \n\nI pad pro 3 / I pencil 2\n\nMusic /\nI Don't Need U 2 Say Anything by Le Gang https://soundcloud.com/thisislegang\nCreative Commons — Attribution 3.0 Unported  — CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic promoted by Audio Library https://youtu.be/aXbtadC5kx8",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 6,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bgkAejlTMqI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bgkAejlTMqI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bgkAejlTMqI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bgkAejlTMqI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bgkAejlTMqI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bgkAejlTMqI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG]그림일기부터 시작하세요! 아이패드로 매일 그리기 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZoccmwaW6Ck",
+    "videoPublishedAt" : "2019-05-19T13:00:34.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/7yM9NULZgb1p4Zjh2jhvB1eqgus\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. :) 이번에는 나만의 개성을 만드는 방법에 대한 영상을 준비했어요. 제가 지향하는 것들을 담은 내용이기도 한데요, 오늘 간만에 종일 비가 와서 분위기가 좋네요. 다들 주말 예쁘게 마무리하세요. 항상 감사합니다.\n\nInstagram / https://instagram.com/leeyeonstein\n\nMusic /\nBefore I Forget by Artificial.Music https://soundcloud.com/artificial-music\nCreative Commons — Attribution 3.0 Unported  — CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic promoted by Audio Library https://youtu.be/DX3CPL4sZX8",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 7,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZoccmwaW6Ck"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ZoccmwaW6Ck/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ZoccmwaW6Ck/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ZoccmwaW6Ck/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ZoccmwaW6Ck/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ZoccmwaW6Ck/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "나만의 개성을 만드는 5가지 방법 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "SkrvbD4ULPM",
+    "videoPublishedAt" : "2019-06-02T13:00:04.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/qVW-0W3TyqAr5r82X6mEDTwYhGM\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요 이연입니다. :) 이번 영상이야말로 어쩌면 요청을 가장 많이 받은 영상일 것 같아요...! 매번 메일이나 디엠, 그리고 댓글로 달아주시는 고민 내용들 꼼꼼하게 읽어왔습니다. 우리들의 고민은 다양하지만 결국 그림에 대해 애정이 있기때문에 더 나아지고 싶어서 생긴 고민들이라는 생각이 들었어요. 이번 영상은 심플해보이지만 나름 준비하는데 정말 오래 걸렸거든요(...) 취지는 여러분이 저처럼 하라는게 아니라 이런 방법도 있으니 괜찮아보이는 것들은 참고하시고, 아니면 자신만의 해결방법을 생각해보는 계기가 되기를 바라는... 그런 마음이었어요.\n\n별써 6월이네요! 저는 여름을 참 좋아한답니다. 이제 해도 길어지니까요. 조만간, 아주 조만간 라이브도 꼭 할게요.\n\n항상 감사합니다. 구독자 여러분들(곽두팔님들) 사랑해용 😎❤️\n\n\n\nMUSIC\nFlow by LiQWYD https://soundcloud.com/liqwyd\nCreative Commons — Attribution 3.0 Unported  — CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic promoted by Audio Library https://youtu.be/OLc7mSSnTok\n\n\n\nINSTAGRAM\nhttps://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 8,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "SkrvbD4ULPM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/SkrvbD4ULPM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/SkrvbD4ULPM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/SkrvbD4ULPM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/SkrvbD4ULPM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/SkrvbD4ULPM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "내가 슬럼프를 극복한 여러가지 방법 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OjFZ7GdDzyo",
+    "videoPublishedAt" : "2019-07-07T13:00:04.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/L5pTVGuWs468O0vfRz1_ICeTOSI\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 오늘은 저의 옛 졸전...... 에 대해 상기하며 영상을 준비해봤어요. 미대에 재학중인 구독자님들께 참고가 되면 좋을 것 같아요 :D 오늘도 즐감해주세요!\n\nhttps://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 9,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OjFZ7GdDzyo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OjFZ7GdDzyo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OjFZ7GdDzyo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OjFZ7GdDzyo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OjFZ7GdDzyo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OjFZ7GdDzyo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "미대 졸업전시 2개했던 후기 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5RRNJ2Fl3Tk",
+    "videoPublishedAt" : "2019-07-21T13:00:00.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/znpcKqTPIXT0WsgZ9K0S2nufbAQ\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요 이연입니다 :D 항상 구독자분들께 감사한 댓글과 마음들 받고있어서 유튜브를 시작하길 잘했다는 생각 정말 많이 하고있는 요즘이여요. ㅠ-ㅠ 지난주는 제가 몸과 마음이 온전치 못하여 영상을 올리지 못했는데 기다려주셔서 감사합니다. 조만간 라이브도 할게요...! 아주 조만간 말이지요 :D\n\n\n\nINSTAGRAM\n\nhttps://instagram.com/leeyeonstein\n\n\n\nMUSIC\n\nTrack: Nature — KV [Audio Library Release]\nMusic provided by Audio Library Plus\nWatch: https://youtu.be/LhRFmP2KGdE\nFree Download / Stream: https://alplus.io/Nature",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 10,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5RRNJ2Fl3Tk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5RRNJ2Fl3Tk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5RRNJ2Fl3Tk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/5RRNJ2Fl3Tk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5RRNJ2Fl3Tk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/5RRNJ2Fl3Tk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "그림 유튜버이지만 매일 그리지 않는 이유 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "j0vqkd0Q9Zo",
+    "videoPublishedAt" : "2019-07-28T13:00:07.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/h1ftwJohCYD3tGpRWoc6XEwKNNc\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "사실 더 심한 그림 많이 갖고있는데 제가 보기 힘들어서^^ 넣지 못했습니다. 진보했다가 20대 초반을 기점으로 후퇴하는 놀라운 발전과정을 보실 수 있는데 그래도 나름 흥미로우니 재미있게 봐주셔요. 간만에 20분짜리 영상 편집하니까 죽을뻔 했지만... 이게 바로 유튜브의 묘미인 것 같습니다. \n\n\nhttps://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 11,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "j0vqkd0Q9Zo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/j0vqkd0Q9Zo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/j0vqkd0Q9Zo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/j0vqkd0Q9Zo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/j0vqkd0Q9Zo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/j0vqkd0Q9Zo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "13년간 그림 발전 과정 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "re6fqHnFNjc",
+    "videoPublishedAt" : "2019-08-04T13:00:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/fKgwrpRp0nrls3YFI1hs082TqGY\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 이번 영상에서는 미술을 계속 하고 있는 입장에서 미술을 진지하게 향후 진로로 입문하려는 사람들에게 드리고 싶은 말씀을 정리해봤어요. 물론 저는...^^ 저입니다.. 성공한 사람도 아니고 그냥 지나가는 사람 1이에요. 그래도 적은 분들에게나마 도움이 되기를 바라며. 사용한 도구는 목탄입니다.\n\nhttps://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 12,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "re6fqHnFNjc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/re6fqHnFNjc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/re6fqHnFNjc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/re6fqHnFNjc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/re6fqHnFNjc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/re6fqHnFNjc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "미술을 시작할까 말까 망설여질 때 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MI9U1ri2RFs",
+    "videoPublishedAt" : "2019-09-01T13:00:04.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/l6So5LgN-EchT_-SB_Z_w3R3AwU\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 오늘은 영상이 평소보다 좀 짧네요. 그래서 편집할 때 금방 끝나서 엄청 신났어요..^^~!~!!ㅋㅋㅋㅋ 미리 업로드 걸어놓고 영화보러 나가려고요. 오늘도 영상 재미있게 봐주세요!\n\n+추가로 자막 프로그램 Vrew 알려주신 구독자 분 정말 감사드립니다.ㅠ ㅠ 제 삶의 질이 약 30%정도 더 향상되었어요. 영상 촬영도 좀 더 편하게 할 수 있게 됐습니다. Vrew 만들어주신 분들, 추천해주신 분들 다 적게 일하고 많이 버세요! (_ _) 감사합니다.\n\n자막 프로그램 https://vrew.voyagerx.com/ko/\n인스타그램 https://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 13,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MI9U1ri2RFs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MI9U1ri2RFs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MI9U1ri2RFs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/MI9U1ri2RFs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MI9U1ri2RFs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/MI9U1ri2RFs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "열등감에 대처하는 방법 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "dxaVcIjBguw",
+    "videoPublishedAt" : "2019-09-15T13:00:11.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/iQMTa6UA_RaCjt13IfxBDxhO9Dc\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS41Mzk2QTAxMTkzNDk4MDhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 한 주 쉬었다고 이렇게 영상 만드는게 어렵다니요... OTL 앞으로는 쉬지 않고 열심히 해서 페이스를 유지해야겠어요. 그래도 간만에 과슈로 사과를 그리니 재밌었습니다. 영상 만드는건 아직도 공부를 할 게 너무 많은 것 같아요... 그림을 보다보면 글이 잘 안들리고, 그렇다고 그림을 대충 그리는걸 넣을 수도 없고... 더 하다보면 가닥이 잡히겠죠 ^~^ 다들 명절 잘 보내셨기를 바라며, 즐거운 한 주 시작하세요. 항상 감사합니다.\n\n사용 도구 : 홀베인 아크릴 과슈 / 쿰 6호 붓(호미화방 구입)\n인스타그램 : https://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 14,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "dxaVcIjBguw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/dxaVcIjBguw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/dxaVcIjBguw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/dxaVcIjBguw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/dxaVcIjBguw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/dxaVcIjBguw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG] 생각지 못한 당신의 재능에 관하여 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "O5t58YcTy_Y",
+    "videoPublishedAt" : "2019-09-29T13:15:12.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/SFz5uLHJo6gJCREHFJaE2VT9Bjw\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "+커뮤니티 자막 참여 감사합니다 :)\n\n안녕하세요, 이연입니다. 매일 10시에 영상 예약을 걸어두곤 했는데 벌써 9시 50분이네요... 나의 잃어버린 일요일...^^~ 늘 제 영상을 사랑해주셔서 감사합니다. 영상을 만들면서도 다음 영상 이거 해야겠다! 하면서 주제를 적어둘 정도로 제게도 이 일이 즐거워요. 항상 고맙습니다. :)\n\n사용한 재료 / 홀베인 수채화 물감, 방탄 팔레트, 바바라 시리즈 70R 8호 붓, 쿰 오벌붓 6호\n\n연필 깎는 방법 링크 / https://www.youtube.com/watch?v=f859OhrtHrM&t=58s\n\n그림일기 링크 / https://www.youtube.com/watch?v=bgkAejlTMqI\n\n인스타그램 링크 / https://Instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 15,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "O5t58YcTy_Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/O5t58YcTy_Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/O5t58YcTy_Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/O5t58YcTy_Y/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/O5t58YcTy_Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/O5t58YcTy_Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG] 만약 당신이 그림을 처음 시작한다면 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "72y6VczMDa4",
+    "videoPublishedAt" : "2019-10-13T13:00:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Jb-b39KRBjaJBS_ouqLjizBPfjY\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. :)\n저는 그림을 그릴 때, 보는 눈이 가장 중요하다고 생각해요. 삶을 살때도 마찬가지고요. 그래서 이번엔 안목에 관한 영상을 준비해보았습니다. 항상 제 유튜브 채널 아껴주셔서 감사합니다 (하트)\n\nhttps://instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 16,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "72y6VczMDa4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/72y6VczMDa4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/72y6VczMDa4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/72y6VczMDa4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/72y6VczMDa4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/72y6VczMDa4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "현명하게 안목을 높이는 방법 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "f-yCsgEQFnc",
+    "videoPublishedAt" : "2019-12-01T13:00:13.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/70ARKil5XwSIYwYGXLEWaKfOkWo\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4yMUQyQTQzMjRDNzMyQTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 오늘은 비가 와서 조용하고 좋네요 :) 이 영상은 평소보다 조금 길어요! 라디오처럼 들어주셨으면 좋겠습니다. 인연, 동연배 여러분(아직 애칭 미정) 항상 사랑해요.\n\nhttps://www.instagram.com/leeyeonstein",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 17,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "f-yCsgEQFnc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/f-yCsgEQFnc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/f-yCsgEQFnc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/f-yCsgEQFnc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/f-yCsgEQFnc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/f-yCsgEQFnc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "직장을 다니면서 유튜브를 하고 그림을 그리는 원동력 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "IXucC4lQass",
+    "videoPublishedAt" : "2019-12-15T13:00:02.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/AnzyayNyBKjo0efk3XPPbKR728s\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS45RTgxNDRBMzUwRjQ0MDhC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "전 많이 보고 많이 그려보는 것 만큼 실력향상에 좋은 방법이 없다고 생각해요. 영상에서 추천한 책의 이름은 '훔쳐라, 아티스트처럼' 입니다. 제가 졸전 준비하면서 읽고 많이 도움을 받았던 책이에요. 이렇게 확신을 하기까지 제게도 많은 고민과 용기가 필요했거든요. 이 영상이 같은 고민을 하는 분들께 좋은 참고가 되었으면 좋겠습니다. :)\n\n\n사용 도구 : 파버카스텔 유성 색연필 12색 세트 (폴리크로모스 에디션)",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 18,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "IXucC4lQass"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/IXucC4lQass/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/IXucC4lQass/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/IXucC4lQass/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "그림 연습할 때 사진을 보고 그려도 괜찮을까 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "u0c9rg1XxYU",
+    "videoPublishedAt" : "2019-12-22T13:00:16.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/JPSNB5UScnPYEfStUTIVdsV0RFM\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS5ENDU4Q0M4RDExNzM1Mjcy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 이 영상은 제가 작년 겨울에 써놨던 글을 바탕으로 만들어봤어요. 브런치라는 사이트에 글을 올렸었는데 이 글이 가끔 저에게 위로가 되더라고요. 그래서 영상으로도 한번 만들어보고 싶었어요. :) 그림은 영화 소공녀 포스터를 보고 그렸습니다. 겨울 영화들이 잘 어울리는 연말이 됐네요. 다들 따뜻한 주말 되시고, 크리스마스 행복하게 보내세요. 항상 고맙습니다.",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 19,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "u0c9rg1XxYU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/u0c9rg1XxYU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/u0c9rg1XxYU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/u0c9rg1XxYU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/u0c9rg1XxYU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/u0c9rg1XxYU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG] 무기력증에 효용있는 몸부림 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1oJQrVR7upA",
+    "videoPublishedAt" : "2019-12-29T13:00:00.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/mIQH1TXPRmJnwN3o4MScwgsaGWo\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4yMDhBMkNBNjRDMjQxQTg1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 여러분! 하... 이번 영상 진짜 울면서 만들었어요.ㅠㅠ 요즘 연말이라 그런지 몸과 마음과 상황과 모든 것이 힘들어서... 근데 자꾸 영상 만들고 싶은 나의 욕심 무엇.... 하여 마음을 다잡을 겸, 수고로웠던 이 한해에 인사도 할 겸 이번 영상을 만들었어요! 다이어리와 만다라트 계획표 pdf 링크 아래에 있습니다. 유용하게 사용해주세요~\n\n다이어리 https://drive.google.com/open?id=1vyyQPkUZ4s_fCfs7IGXSnpJP89xYOxt-\n만다라트 https://drive.google.com/open?id=11gRTqfVN5CTZNnz1mYJ6AzW7hb1Ah25p\n\n항상 제가 여러분 많이 사랑하는거 아시죠- :)",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 20,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1oJQrVR7upA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1oJQrVR7upA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1oJQrVR7upA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1oJQrVR7upA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "후회없는 신년 목표 세우기 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "azgSVHYCLu4",
+    "videoPublishedAt" : "2020-02-09T13:00:02.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/xYpoMKpyXMgtQfsiujoejj_oWTw\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS5GM0Q3M0MzMzY5NTJFNTdE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다 :^) \n이번 영상은 뭔가 쉽 듯 말 듯 앓듯이 만들었네요. 코로나 바이러스 때문에 외출도 못하고 답답한 주말이었어요. 흑흑... 아 그리고 제가 요즘 참 생각과 고민이 많아요. 그래서 책을 여러 권 읽고 있는데 도움이 많이 되네요. 다음엔 책을 추천하는 콘텐츠를 만들어보려고요. 아, 저의 책도 열심히 작업하고 있습니다. 아주 조금 썼지만요. :~)히히 \n\n여러분, 건강이 최고예요! 비타민 꼭꼭 챙겨드시고 잠도 푹 주무시고 손도 깨끗이 씻어서 병을 예방하도록 합시다. 항상 고맙습니다. :)",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 21,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "azgSVHYCLu4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/azgSVHYCLu4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/azgSVHYCLu4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/azgSVHYCLu4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/azgSVHYCLu4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/azgSVHYCLu4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "지금보다 나아지고 싶은 당신에게 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "591nakOGqgk",
+    "videoPublishedAt" : "2020-02-16T13:00:00.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/i7cxS3UE9KWKIaI7QQ1wRX-vfxM\"",
+  "id" : "UEw1djRvOHFpUm8zV2VnampSVGV1VmFXRW91MmJwWW1XTS4zRjM0MkVCRTg0MkYyQTM0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "안녕하세요, 이연입니다. 오늘은 책 추천 영상을 준비해봤어요! 영상을 만들 때 매번 즐기면서 만드는데, 저는 진짜 이렇게 뭔가를 만드는 일이 체질인 듯 해요. 이번 영상도 즐겁게 만들었습니다 :) 영상에 나온 책들 정보는 아래와 같습니다.\n\n빅 매직 - 엘리자베스 길버트 (민음사)\n하루 24시간 어떻게 살 것인가 - 아놀드 베넷 (범우사)\n반 고흐 영혼의 편지 - 반 고흐 (예담)\n미술에 관한 모든 것 - 킷 화이트 (틔움출판)\n훔쳐라, 아티스트처럼 - 오스틴 클레온 (중앙북스)\n\n여러분 항상 고맙습니다.",
+    "playlistId" : "PL5v4o8qiRo3WegjjRTeuVaWEou2bpYmWM",
+    "position" : 22,
+    "publishedAt" : "2020-02-29T12:44:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "591nakOGqgk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/591nakOGqgk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/591nakOGqgk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/591nakOGqgk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/591nakOGqgk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/591nakOGqgk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "흔들림 없이 걷고 싶다면 / LEEYEON"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

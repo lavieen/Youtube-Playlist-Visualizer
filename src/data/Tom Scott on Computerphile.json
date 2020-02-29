@@ -1,0 +1,766 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "MijmeoH9LT4",
+    "videoPublishedAt" : "2013-09-20T12:36:15.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/LJeDEPFPMKkLCKbUkwpeLQj125g\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Audible free book: http://www.audible.com/computerphile\nRepresenting symbols, characters and letters that are used worldwide is no mean feat, but unicode managed it - how? Tom Scott explains how the web has settled on a standard.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nEXTRA BITS: http://youtu.be/qBex3IDaUbU\nData Security: http://youtu.be/4SSSMi4X_mA\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 0,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MijmeoH9LT4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MijmeoH9LT4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MijmeoH9LT4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/MijmeoH9LT4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MijmeoH9LT4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/MijmeoH9LT4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Characters, Symbols and the Unicode Miracle - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qBex3IDaUbU",
+    "videoPublishedAt" : "2013-09-30T08:42:40.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/DQOZOgKb04pbkL6k455_E69IHzQ\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "UTF8 is fantastic, but people still have translation issues with some characters - Tom explains why.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 1,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qBex3IDaUbU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qBex3IDaUbU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qBex3IDaUbU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/qBex3IDaUbU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qBex3IDaUbU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qBex3IDaUbU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "EXTRA BITS - UTF-8 'nearly' works - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "_jKylhJtPmI",
+    "videoPublishedAt" : "2013-10-09T14:18:03.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/IG1Snt-JdfvrCmlr2RaHVBpt5Qs\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Websites can still be hacked using SQL injection - Tom explains how sites written in PHP (and other languages too) can be vulnerable and have basic security issues.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nFollow the Cookie Trail: http://www.youtube.com/watch?v=LHSSY8QNvew\nCERN Computing Centre & Mouse Farm: http://www.youtube.com/watch?v=S0MgJFGL5jg\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 2,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "_jKylhJtPmI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/_jKylhJtPmI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/_jKylhJtPmI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/_jKylhJtPmI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/_jKylhJtPmI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/_jKylhJtPmI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hacking Websites with SQL Injection - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "L5l9lSnNMxg",
+    "videoPublishedAt" : "2013-10-23T13:56:48.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/SA-03G8ZruzAplxwfa94mPUxanE\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Audible free book: http://www.audible.com/computerphile\nJavaScript is dangerous! Why? How are websites vulnerable to it? Find out about bug-bounties from Tom Scott.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 3,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "L5l9lSnNMxg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/L5l9lSnNMxg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/L5l9lSnNMxg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/L5l9lSnNMxg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/L5l9lSnNMxg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/L5l9lSnNMxg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Cracking Websites with Cross Site Scripting - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "8ZtInClXe1Q",
+    "videoPublishedAt" : "2013-11-20T14:37:23.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2glvCgrdu0kIe9oVi-Y5W-m8iT4\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Security of users' passwords should be at the forefront of every web developer's mind. Tom takes us through the insecure ways in which some websites deal with passwords.\n\nNote: At circa 8mins, the animation does not show how the 'salt' is also stored in the database alongside the username.\n\nHashing Algorithms and Security: http://youtu.be/b4b8ktEV4Bg \nSecurity of Data on Disk: http://youtu.be/4SSSMi4X_mA\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 4,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "8ZtInClXe1Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/8ZtInClXe1Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/8ZtInClXe1Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/8ZtInClXe1Q/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/8ZtInClXe1Q/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/8ZtInClXe1Q/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How NOT to Store Passwords! - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vRBihr41JTo",
+    "videoPublishedAt" : "2013-12-03T15:37:33.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Kg-qOZ-5KYvXzgAA3YyJ9i9F1Is\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "If you don't secure your web forms, one mistaken click could be all it takes for your users to delete their own accounts. Tom Scott explains.\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nHacking Websites with SQL Injection: http://www.youtube.com/watch?v=_jKylhJtPmI\nCracking Websites with Cross Site Scripting: http://www.youtube.com/watch?v=L5l9lSnNMxg\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 5,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vRBihr41JTo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vRBihr41JTo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vRBihr41JTo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/vRBihr41JTo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vRBihr41JTo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/vRBihr41JTo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Cross Site Request Forgery - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "-5wpm-gesOY",
+    "videoPublishedAt" : "2013-12-30T15:48:52.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/x8Y5Z7porEc3UvNr8wsc4TM841k\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A web app that works out how many seconds ago something happened. How hard can coding that be? Tom Scott explains how time twists and turns like a twisty-turny thing. It's not to be trifled with!\n\nA Universe of Triangles: http://www.youtube.com/watch?v=KdyvizaygyY\nLZ Compression in Text: http://www.youtube.com/watch?v=goOa3DGezUA\nCharacters, Symbols and the Unicode Miracle: http://www.youtube.com/watch?v=MijmeoH9LT4\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 6,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "-5wpm-gesOY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/-5wpm-gesOY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/-5wpm-gesOY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/-5wpm-gesOY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/-5wpm-gesOY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/-5wpm-gesOY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Problem with Time & Timezones - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PZRI1IfStY0",
+    "videoPublishedAt" : "2014-01-22T16:54:04.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/LrEzzpsZKY91QXOo6Ph17_kzHag\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Why can't floating point do money? It's a brilliant solution for speed of calculations in the computer, but how and why does moving the decimal point (well, in this case binary or radix point) help and how does it get currency so wrong?\n\n3D Graphics Playlist: http://www.youtube.com/playlist?list=PLzH6n4zXuckrPkEUK5iMQrQyvj9Z6WCrm\nThe Trouble with Timezones: http://youtu.be/-5wpm-gesOY \n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 7,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PZRI1IfStY0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PZRI1IfStY0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PZRI1IfStY0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/PZRI1IfStY0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PZRI1IfStY0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/PZRI1IfStY0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Floating Point Numbers - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "blSzwPcL5Dw",
+    "videoPublishedAt" : "2014-04-02T12:02:45.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/22CIfwZmuZaR3JwDPt4mRtrjzGA\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Whether its the Darwin Award nominees or simply another crazy cat, animated GIFs have a lot to answer for. They're also a perfect example of one of Computer Science's fundamental principles - Tom Scott explains.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nHow NOT to Store Passwords: http://youtu.be/8ZtInClXe1Q\nLZ Text Compression: http://youtu.be/goOa3DGezUA\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 8,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "blSzwPcL5Dw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/blSzwPcL5Dw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/blSzwPcL5Dw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/blSzwPcL5Dw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/blSzwPcL5Dw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/blSzwPcL5Dw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Animated GIFs and Space vs Time - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "BcDZS7iYNsA",
+    "videoPublishedAt" : "2014-03-14T14:57:58.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Yx_YS_iD6h4MVVkPPKtMqd-B-Xg\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Audible free book: http://www.audible.com/computerphile\nDoS or Denial of Service Attacks are one thing, but Amplified Denial of Service Attacks could threaten the internet itself. Tom Scott explains what they are.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 9,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BcDZS7iYNsA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BcDZS7iYNsA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BcDZS7iYNsA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/BcDZS7iYNsA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BcDZS7iYNsA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/BcDZS7iYNsA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Attack That Could Disrupt The Whole Internet - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "tITwM5GDIAI",
+    "videoPublishedAt" : "2014-07-09T12:31:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/4g4llpXaA07Ktra_BcAtAeU44Dc\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Audible free book: http://www.audible.com/computerphile\nUnicode is changing, adding tons more icons and smilies - But what's new and why? Tom Scott takes us through the improvements...\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nCharacters, Symbols & the Unicode Miracle: http://youtu.be/MijmeoH9LT4\nFloating Point Numbers: http://youtu.be/PZRI1IfStY0\nThe VR CAVE: http://youtu.be/STMcWUtQr1Y\nEnd for Moore's Law?: http://youtu.be/X8v1BB0UaDs\n\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 10,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "tITwM5GDIAI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/tITwM5GDIAI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/tITwM5GDIAI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/tITwM5GDIAI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/tITwM5GDIAI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/tITwM5GDIAI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Emoji and the Levitating Businessman - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "0j74jcxSunY",
+    "videoPublishedAt" : "2014-08-04T12:59:28.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/sOLGbgpzPlNKOVLKjNRFt6WpzLs\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Audible free book: http://www.audible.com/computerphile\nCatering for a global audience is difficult, Tom takes us through a 'timezones' style explanation of the things you need to keep in mind when internationalising your code.\nThis video features Tom Scott - more from him at: http://www.youtube.com/enyay & https://twitter.com/tomscott\n\nThe Problem with Time & Timezones: http://youtu.be/-5wpm-gesOY \n\nEmoji & the Levitating Businessman: http://youtu.be/tITwM5GDIAI \nHeartbleed, Running the Code: http://youtu.be/1dOCHwf8zVQ \nFloating Point: http://youtu.be/PZRI1IfStY0 \nPublic Key Cryptography: http://youtu.be/GSIDS_lvRv4 \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 11,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "0j74jcxSunY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/0j74jcxSunY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/0j74jcxSunY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/0j74jcxSunY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/0j74jcxSunY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/0j74jcxSunY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Internationalis(z)ing Code - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "w3_0x6oaDmI",
+    "videoPublishedAt" : "2014-12-18T15:32:30.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/IbSxEfYpXWBe4OlrZZgBbVT6bKs\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Voting is centuries old, why can't we move with the times and use our phones, tablets and computers? Tom Scott lays out why e-voting is such a bad idea.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 12,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "w3_0x6oaDmI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/w3_0x6oaDmI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/w3_0x6oaDmI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/w3_0x6oaDmI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/w3_0x6oaDmI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/w3_0x6oaDmI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Why Electronic Voting is a BAD Idea - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "-enHfpHMBo4",
+    "videoPublishedAt" : "2015-10-23T12:29:44.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/EIJ-QZJqxrNgvZr8rBlRNIgbE6A\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Lenovo sold thousands of computers all carrying the Superfish software. Tom Scott explains what a security nightmare this became.\n\nMore Tom Scott: \nhttp://www.youtube.com/enyay \nhttp://www.twitter.com/tomscott \n\n\nCORRECTION: At 2min 46secs Tom says \"Private Key\" when he means \"Public Key\" - The private key is not shared.\n\nChip & PIN Fraud: https://youtu.be/Ks0SOn8hjG8 \nCould We Ban Encryption?: https://youtu.be/ShUyfk4QB-8 \nHow Blurs & Filters work: https://youtu.be/C_zFhWdM4ic \nNumberphile: Encryption & Huge Numbers : https://youtu.be/M7kEpw1tn50 \nPublic Key Cryptography: https://youtu.be/GSIDS_lvRv4 \n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputer Science at the University of Nottingham: http://bit.ly/nottscomputer\n\nComputerphile is a sister project to Brady Haran's Numberphile. More at http://www.bradyharan.com",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 13,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "-enHfpHMBo4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/-enHfpHMBo4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/-enHfpHMBo4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/-enHfpHMBo4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/-enHfpHMBo4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/-enHfpHMBo4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Man in the Middle Attacks & Superfish - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "b4b8ktEV4Bg",
+    "videoPublishedAt" : "2013-11-08T17:21:55.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Ez6MW3sv7to9G2vXnzi9LaS0taY\"",
+  "id" : "UEw1djRvOHFpUm8zV0g2OEI0bWVTeGdsSDIzQnNUQk5vVy41Mzk2QTAxMTkzNDk4MDhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Audible free book: http://www.audible.com/computerphile\nHashing Algorithms are used to ensure file authenticity, but how secure are they and why do they keep changing? Tom Scott hashes it out.\n\nMore from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nPigeon Sound Effects courtesy of http://www.freesfx.co.uk/ \n\nComputerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels",
+    "playlistId" : "PL5v4o8qiRo3WH68B4meSxglH23BsTBNoW",
+    "position" : 14,
+    "publishedAt" : "2020-02-29T12:51:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "b4b8ktEV4Bg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/b4b8ktEV4Bg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/b4b8ktEV4Bg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/b4b8ktEV4Bg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/b4b8ktEV4Bg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/b4b8ktEV4Bg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hashing Algorithms and Security - Computerphile"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

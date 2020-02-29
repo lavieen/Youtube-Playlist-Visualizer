@@ -1,0 +1,53 @@
+.playlistname {
+    margin: 30px 0 70px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.item {
+    height: 250px;
+    width: 320px;
+    margin: 10px;
+    background: rgba(235,226,244,0.1);
+    border-radius: 5px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.item img {
+    border-radius: 5px 5px 0 0;
+}
+
+.item p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 5px 10px;
+}
+
+.tooltiptext {
+    font-size: 12px;
+    visibility: hidden;
+    background-color: white;
+    color: gray;
+    border-color: grey;
+    text-align: center;
+    padding: 5px 5px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    transform: translate(-100%,100%);
+    opacity: 0;  
+    transition: opacity ;  
+    transition-delay: 0.5s;
+    z-index: 1;
+  }
+  
+  p:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;  
+  }

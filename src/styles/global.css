@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+* {
+    box-sizing: border-box;
+}
+
+html, body, #___gatsby {
+    height: 100%;
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+
+html {    
+    background-image: url(../assets/dragon-ball.jpg);    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body {
+    font-family: 'Roboto Mono';
+    font-weight: 400;
+    color: white;
+    /* color: rgba(169, 175, 187, 0.82); */
+    /* background: rgba(31, 40, 62, 0.94); */
+    background-image: linear-gradient(to right, rgba(99, 76, 209, 0.94), rgba(168, 106, 220, 0.94), rgba(217, 105, 211, 0.94));
+}
+
+#___gatsby {
+    position: fixed;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+a, button {
+    color: inherit;
+    transition: 0.3s;
+  }
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {    
+    font-weight: 400;
+}

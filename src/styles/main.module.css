@@ -1,0 +1,65 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.layout h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 40px;
+}
+
+.foot {
+    margin: 50px 0 10px 0;
+}
+
+.playlistname {
+    font-weight: 400;
+    background: rgba(255,255,255,0.1);
+    /* background: linear-gradient(60deg,#D969D3,#855CEB); */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 3px;
+    text-transform: capitalize;
+    font-size: 18px;
+    padding: 15px 15px;
+    margin: 20px 15px;
+    line-height: 1.5em;
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.listContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 20px;
+}
+
+.tooltiptext {
+    font-size: 12px;
+    visibility: hidden;
+    background-color: white;
+    color: gray;
+    border-color: grey;
+    text-align: center;
+    padding: 1px 5px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    transform: translate(-100%,100%);
+    opacity: 0;  
+    transition: opacity;  
+    transition-delay: 0.5s;
+    z-index: 1;
+}
+  
+.playlistname:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;  
+}

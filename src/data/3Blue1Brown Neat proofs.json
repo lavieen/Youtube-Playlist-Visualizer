@@ -1,0 +1,868 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "OkmNXy7er84",
+    "videoPublishedAt" : "2017-12-08T15:04:57.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/jODhV6VFd8S_8Su2J7nc_PolnSM\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A difficult geometry puzzle with an elegant solution.\nHome page: https://www.3blue1brown.com/\nBrought to you by you: http://3b1b.co/putnam-thanks\nAnd by Brilliant: https://brilliant.org/3b1b\n\nSolution to the puzzle mentioned at the end: https://brilliant.org/3b1bindicator/\n\nThese videos exist thanks to Patreon:\nhttps://www.patreon.com/3blue1brown\n\nA different write-up of this solution:\nhttp://lsusmath.rickmabry.org/psisson/putnam/putnam-web.htm\n\n1992 Putnam with this problem:\nhttp://kskedlaya.org/putnam-archive/1992.pdf\n\nA problem with a similar flavor came up on the 2005 Putnam A6.  Give it a try!  The solution for that problem, by the way, was written by Calvin Lin, a friend of mine who works at Brilliant.  Small world!\nhttp://kskedlaya.org/putnam-archive/2005.pdf\nhttp://kskedlaya.org/putnam-archive/2005s.pdf\n\n------------------\nAnimations largely made using manim, a scrappy open source python library.  https://github.com/3b1b/manim\n\nIf you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and has many other quirks you might expect in a library someone wrote with only their own use in mind.\n\nMusic by Vincent Rubinetti.\nDownload the music on Bandcamp:\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\nStream the music on Spotify:\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 0,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OkmNXy7er84"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OkmNXy7er84/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OkmNXy7er84/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OkmNXy7er84/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OkmNXy7er84/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OkmNXy7er84/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The hardest problem on the hardest test"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "d-o3eB9sfls",
+    "videoPublishedAt" : "2018-03-02T16:23:29.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/CfLuotEIhk2NjrTB-ta5gyj4cxw\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A most beautiful proof of the Basel problem, using light.\nHome page: https://www.3blue1brown.com/\nBrought to you by you: http://3b1b.co/basel-thanks\nAnd by Brilliant: https://brilliant.org/3b1b\n\nBrilliant's principles list that I referenced:\nhttps://brilliant.org/principles/\n\nGet early access and more through Patreon:\nhttps://www.patreon.com/3blue1brown\n\nThe content here was based on a paper by Johan Wästlund\nhttp://www.math.chalmers.se/~wastlund/Cosmic.pdf\n\nCheck out Mathologer's video on the many cousins of the Pythagorean theorem:\nhttps://youtu.be/p-0SOWbzUYI\n\nOn the topic of Mathologer, he also has a nice video about the Basel problem:\nhttps://youtu.be/yPl64xi_ZZA\n\nA simple Geogebra to play around with the Inverse Pythagorean Theorem argument shown here.\nhttps://ggbm.at/yPExUf7b\n\nSome of you may be concerned about the final step here where we said the circle approaches a line.  What about all the lighthouses on the far end?  Well, a more careful calculation will show that the contributions from those lights become more negligible.  In fact, the contributions from almost all lights become negligible.  For the ambitious among you, see this paper for full details.\n\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\n\nMusic by Vincent Rubinetti: \nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 1,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "d-o3eB9sfls"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/d-o3eB9sfls/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/d-o3eB9sfls/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/d-o3eB9sfls/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/d-o3eB9sfls/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/d-o3eB9sfls/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Why is pi here?  And why is it squared?  A geometric answer to the Basel problem"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "AmgkSdhK4K8",
+    "videoPublishedAt" : "2016-11-04T21:48:23.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/xxPPN0pgUNA8blm0pmfRdY5nar8\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "An unsolved conjecture, and a clever topological solution to a weaker version of the question.\nBrought to you by you: http://3b1b.co/topology-thanks\nHome page: https://www.3blue1brown.com/\n\nThis video is based on a proof from H. Vaughan, 1977.\n\nYou can see it written up (as a single rather-dense paragraph) here:\nhttp://topo.math.auburn.edu/tp/reprints/v06/tp06107.pdf\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPHP40bzkb0TKLRPwQGAoC-\n\nVarious social media stuffs:\nTwitter: https://twitter.com/3Blue1Brown\nFacebook: https://www.facebook.com/3blue1brown/\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 2,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "AmgkSdhK4K8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/AmgkSdhK4K8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/AmgkSdhK4K8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/AmgkSdhK4K8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/AmgkSdhK4K8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/AmgkSdhK4K8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Who cares about topology?   (Inscribed rectangle problem)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "mvmuCPvRoWQ",
+    "videoPublishedAt" : "2017-03-03T22:07:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/5SPjLR4AY8kmoIz7sVIWdGP_OpI\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Intuition for e^(pi i) = -1, and an intro to group theory.\nHome page: https://www.3blue1brown.com/\nBrought to you by you: http://3b1b.co/epii-thanks\n\nAnd by the Emerald Cloud Lab:\n- Application software engineer: http://3b1b.co/ecl-app-se\n- Infrastructure engineer: http://3b1b.co/ecl-infra-se\n- Lab focused engineer: http://3b1b.co/ecl-lab-se\n- Scientific computing engineer: http://3b1b.co/ecl-sci-comp\n\nThere's a slight mistake at 13:33, where the angle should be arctan(1/2) = 26.565 degrees, not 30 degrees.  Arg!  If anyone asks, I was just...er...rounding to the nearest 10's.\n\nFor those looking to read more into group theory, I'm a fan of Keith Conrad's expository papers: http://www.math.uconn.edu/~kconrad/blurbs/\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 3,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "mvmuCPvRoWQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/mvmuCPvRoWQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/mvmuCPvRoWQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/mvmuCPvRoWQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/mvmuCPvRoWQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/mvmuCPvRoWQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Euler's formula with introductory group theory"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QJYmyhnaaek",
+    "videoPublishedAt" : "2017-05-26T17:58:15.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/_MMzNZWUCEtJ-erD1PXG5-xED_4\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "The pythagorean triples like (3, 4, 5), (5, 12, 13), etc. all follow a nice pattern which complex numbers expose in a beautiful way.\nBrought to you by you:  http://3b1b.co/triples-thanks\nHome page: https://www.3blue1brown.com/\nAnd by Remix: https://www.remix.com/jobs\n\nRegarding the brief reference to Fermat's Last Theorem, what should be emphasized is that it refers to *positive* integers.  You can of course have things like 0^3 + 2^3 = 2^3, or (-3)^3 + 3^3 = 0^3.  \n\nMusic by Vincent Rubinetti: https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 4,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QJYmyhnaaek"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QJYmyhnaaek/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QJYmyhnaaek/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/QJYmyhnaaek/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QJYmyhnaaek/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/QJYmyhnaaek/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "All possible pythagorean triples, visualized"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "GNcFjFmqEc8",
+    "videoPublishedAt" : "2018-12-02T20:08:11.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/M23W6mJh9nknYjoWf2_EqVe9NzU\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "The formula is no mere coincidence.\nStore: http://3b1b.co/store\nHome page: https://www.3blue1brown.com\nSpecial thanks: http://3b1b.co/sphere-thanks\n\nDiscussion on Reddit: https://www.reddit.com/r/3Blue1Brown/comments/a2gqo0/but_why_is_a_spheres_surface_area_four_times_its/\n\nThe first proof goes back to Greek times, due to Archimedes, who was charmed by the fact that a sphere has 2/3 the volume of a cylinder encompassing it, and 2/3 the surface area as well (if you consider the caps).  Check out this video for another beautiful animation of that first proof:\nhttps://youtu.be/KZJw0AYn6_k\n\nCalculus series:\nhttp://3b1b.co/calculus\n\nThanks to these folks for letting me use their images at the end:\nhttps://www.youtube.com/user/vlogbrothers\nhttps://www.youtube.com/user/physicswoman\nhttps://www.youtube.com/user/Vsauce\nhttps://www.youtube.com/user/onemeeeliondollars\n\n------------------\n\nThese animations are largely made using manim, a scrappy open source python library:  https://github.com/3b1b/manim\n\nIf you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.\n\nMusic by Vincent Rubinetti.\nDownload the music on Bandcamp:\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\nStream the music on Spotify:\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown_animations/\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 5,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "GNcFjFmqEc8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/GNcFjFmqEc8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/GNcFjFmqEc8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/GNcFjFmqEc8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/GNcFjFmqEc8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/GNcFjFmqEc8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "But why is a sphere's surface area four times its shadow?"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CfW845LNObM",
+    "videoPublishedAt" : "2018-05-19T14:09:16.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/wvJqSy0sHFk-4BfJOywu42er_N0\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A visual for derivatives which generalizes more nicely to topics beyond calculus.\nBrought to you by you: http://3b1b.co/alt-calc-thanks\nAnd by Brilliant: https://brilliant.org/3b1b\nHome page: https://www.3blue1brown.com\n\nEssence of calculus series:\nhttp://3b1b.co/calculus\n\nReally nice applet made based on this video by Reddit user Larconneur:\nhttps://www.geogebra.org/m/rftwacsy\n\nMusic by Vincent Rubinetti: \nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3blue1brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 6,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CfW845LNObM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CfW845LNObM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CfW845LNObM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/CfW845LNObM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CfW845LNObM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CfW845LNObM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "What they won't teach you in calculus"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yuVqxCSsE7c",
+    "videoPublishedAt" : "2018-11-18T14:09:20.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/XF3-HorBawyG4XmJ24j5qHjHIZc\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Solving a discrete math puzzle using topology.\nHome page: https://www.3blue1brown.com\nBrought to you by you: http://3b1b.co/borsuk-thanks\n\nWant more fair division math fun?  Check out this Mathologer video\nhttps://youtu.be/7s-YM-kcKME\n(Seriously, Mathologer is great)\n\nThese videos are supported by the community.\nhttps://www.patreon.com/3blue1brown\n\nThe original 1986 by Alon and West with this proof\nhttps://m.tau.ac.il/~nogaa/PDFS/Publications/The%20Borsuk-Ulam%20Theorem%20and%20bisection%20of%20necklaces.pdf\n\nVSauce on fixed points\nhttps://youtu.be/csInNn6pfT4\n\nEE Paper using ideas related to this puzzle\nhttps://dl.acm.org/citation.cfm?id=802179\n\nI first came across this paper thanks to Alon Amit's answer on this Quora post\nhttps://www.quora.com/As-of-2016-what-do-mathematicians-on-Quora-think-of-the-3Blue1Brown-maths-videos\n\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\n\nMusic by Vincent Rubinetti:\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown_animations/\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 7,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yuVqxCSsE7c"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yuVqxCSsE7c/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yuVqxCSsE7c/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/yuVqxCSsE7c/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yuVqxCSsE7c/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/yuVqxCSsE7c/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Sneaky Topology | The Borsuk-Ulam theorem and stolen necklaces"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NaL_Cb42WyY",
+    "videoPublishedAt" : "2017-05-19T15:41:54.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/W9tggwpIenCsDT7ySPqe10ERlBo\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A story of pi, primes, complex numbers, and how number theory braids them together.\nBrought to you by you: http://3b1b.co/leibniz-thanks\nHome page: https://www.3blue1brown.com/\nAnd by Remix: https://www.remix.com/\n\nThe fact that only primes that are one above a multiple of four can be expressed as the sum of two squares is known as \"Fermat's theorem on sums of two squares\": https://goo.gl/EdhaN2\n\nMusic by Vince Rubinetti:\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 8,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NaL_Cb42WyY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NaL_Cb42WyY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NaL_Cb42WyY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/NaL_Cb42WyY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NaL_Cb42WyY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NaL_Cb42WyY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Pi hiding in prime regularities"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "zwAD6dRSVyI",
+    "videoPublishedAt" : "2017-08-11T22:41:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/EI8CK0k_WCWAQSvnH5ewqhH8TRI\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Visualizing high-dimensional spheres to understand a surprising puzzle.\nHome page: https://www.3blue1brown.com/\nBrought to you by you: http://3b1b.co/high-d-thanks\nAnd by Brilliant: https://brilliant.org/3b1b\n\nPodcast!  https://www.benbenandblue.com/\nCheck out Ben Eater's channel: https://www.youtube.com/user/eaterbc\n\n------------------\nAnimations largely made using manim, a scrappy open source python library.  https://github.com/3b1b/manim\n\nIf you want to check it out, I feel compelled to warn you that it's not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.\n\nMusic by Vincent Rubinetti.\nDownload the music on Bandcamp:\nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\nStream the music on Spotify:\nhttps://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u\n\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3Blue1Brown\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 9,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "zwAD6dRSVyI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/zwAD6dRSVyI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/zwAD6dRSVyI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/zwAD6dRSVyI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/zwAD6dRSVyI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/zwAD6dRSVyI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Thinking outside the 10-dimensional box"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "pQa_tWZmlGs",
+    "videoPublishedAt" : "2018-08-01T15:13:51.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/E4YqC_eBFFmyBC4jo3nKd9byzGQ\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Dandelin spheres, conic sections, and a view of genius in math.\nBrought to you by you: http://3b1b.co/dandelin-thanks\nHome page: https://www.3blue1brown.com\n\nThoughts on the recent change to be sponsor-free:\nhttps://www.patreon.com/posts/going-sponsor-19586800\n\nVideo on Feynman's lost lecture: https://youtu.be/xdIjYBtnvZU\n\nI originally saw the proof of this video when I was reading Paul Lockhart's \"Measurement\", which I highly recommend to all math learners, young and old.\n\nNew shirts/mugs available: http://3b1b.co/store\n\nThe 3d animations in the video were done using Grapher, while 2d animations were done using https://github.com/3b1b/manim\n\nIf you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then \"add subtitles/cc\".  I really appreciate those who do this, as it helps make the lessons accessible to more people.\n\nMusic by Vincent Rubinetti: \nhttps://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe\n\nVarious social media stuffs:\nWebsite: https://www.3blue1brown.com\nTwitter: https://twitter.com/3blue1brown\nReddit: https://www.reddit.com/r/3blue1brown\nInstagram: https://www.instagram.com/3blue1brown_animations/\nPatreon: https://patreon.com/3blue1brown\nFacebook: https://www.facebook.com/3blue1brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 10,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "pQa_tWZmlGs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/pQa_tWZmlGs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/pQa_tWZmlGs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/pQa_tWZmlGs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/pQa_tWZmlGs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/pQa_tWZmlGs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Ever wondered why slicing a cone gives an ellipse?  It’s wonderfully  clever!"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Cld0p3a43fU",
+    "videoPublishedAt" : "2016-04-01T20:27:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/Pa99yESzhHM5wYouJWyNxbVsrgg\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Steven Strogatz and I talk about a famous historical math problem, a clever solution, and a modern twist.\n\n------------------\n\n3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted about new videos, subscribe, and click the bell to receive notifications (if you're into that).\n\nIf you are new to this channel and want to see more, a good place to start is this playlist: https://www.youtube.com/playlist?list=PLZHQObOWTQDPHP40bzkb0TKLRPwQGAoC-\n\nVarious social media stuffs:\nPatreon: https://www.patreon.com/3blue1brown\nTwitter: https://twitter.com/3Blue1Brown\nFacebook: https://www.facebook.com/3blue1brown/\nReddit: https://www.reddit.com/r/3Blue1Brown",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 11,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Cld0p3a43fU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Cld0p3a43fU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Cld0p3a43fU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Cld0p3a43fU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Cld0p3a43fU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Cld0p3a43fU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Brachistochrone, with Steven Strogatz"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2SUvWfNJSsM",
+    "videoPublishedAt" : "2016-11-25T17:30:20.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/nHW-oCPoW0_qCzN-YRcLNvbQkRo\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Binary counting can solve the towers of Hanoi puzzle, and if this isn't surprising enough, it can lead to a method for finding a curve that fills Sierpinski's triangle (which I get to in part 2).\n\nThanks to Desmos for their help in supporting this video.  They're hiring, and anyone interested should check out https://www.desmos.com/careers\n\nThanks to all Patreon supporters as well, you can support and get early access to future \"Essence of\" series here: https://www.patreon.com/3blue1brown\n\nI also want to give a special shoutout to the following patrons: CrypticSwarm, Ali Yahya, Dave Nicponski, Juan Batiz-Benet, Yu Jun, Othman Alikhan, Markus Persson, Joseph John Cox, Luc Ritchie, Einar Wikheim Johansen, Rish Kundalia, Achille Brighton, Kirk Werklund, Ripta Pasay, Felipe Diniz, Chris, Curtis Mitchell, Ari Royce, Bright , Myles Buckley, Robert P Zuckett, Andy Petsch, Otavio good, Karthik T, Steve Muench, Viesulas Sliupas, Steffen Persch, Brendan Shah, Andrew  Mcnab, Matt Parlmer, Naoki Orai, Dan Davison, Jose Oscar Mur-Miranda, Aidan Boneham, Brent Kennedy, Henry Reich, Sean Bibby, Paul Constantine, Justin Clark, Mohannad Elhamod, Denis, Ben Granger, Jeffrey Herman, Jacob Young.",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 12,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2SUvWfNJSsM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2SUvWfNJSsM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2SUvWfNJSsM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2SUvWfNJSsM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2SUvWfNJSsM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2SUvWfNJSsM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Binary, Hanoi and Sierpinski, part 1"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bdMfjfT0lKk",
+    "videoPublishedAt" : "2016-11-25T17:30:46.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2vSlTvXFZABg1U3nVXNKk_IMkUM\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "After seeing how binary counting can solve the towers of Hanoi puzzle in the last video, here we see how ternary counting solve a constrained version of the puzzle, and how this gives a way to walk through a Sierpinski triangle graph structure.\n\nThanks to Desmos for their help in supporting this video.  They're hiring, and anyone interested should check out https://www.desmos.com/careers\n\nThanks to all Patreon supporters as well, you can support and get early access to future \"Essence of\" series here: https://www.patreon.com/3blue1brown\n\nI also want to give a special shoutout to the following patrons: CrypticSwarm, Ali Yahya, Dave Nicponski, Juan Batiz-Benet, Yu Jun, Othman Alikhan, Markus Persson, Joseph John Cox, Luc Ritchie, Einar Wikheim Johansen, Rish Kundalia, Achille Brighton, Kirk Werklund, Ripta Pasay, Felipe Diniz, Chris, Curtis Mitchell, Ari Royce, Bright , Myles Buckley, Robert P Zuckett, Andy Petsch, Otavio good, Karthik T, Steve Muench, Viesulas Sliupas, Steffen Persch, Brendan Shah, Andrew  Mcnab, Matt Parlmer, Naoki Orai, Dan Davison, Jose Oscar Mur-Miranda, Aidan Boneham, Brent Kennedy, Henry Reich, Sean Bibby, Paul Constantine, Justin Clark, Mohannad Elhamod, Denis, Ben Granger, Jeffrey Herman, Jacob Young.",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 13,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bdMfjfT0lKk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bdMfjfT0lKk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bdMfjfT0lKk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bdMfjfT0lKk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bdMfjfT0lKk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bdMfjfT0lKk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Binary, Hanoi, and Sierpinski, part 2"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "cyW5z-M2yzw",
+    "videoPublishedAt" : "2015-10-04T02:14:13.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/em4ns6_bVPhYC9F-A9dvWyEfkY8\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy41Mzk2QTAxMTkzNDk4MDhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A connection between a classical puzzle about rational numbers and what makes music harmonious.",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 14,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "cyW5z-M2yzw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/cyW5z-M2yzw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/cyW5z-M2yzw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/cyW5z-M2yzw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/cyW5z-M2yzw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/cyW5z-M2yzw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Music And Measure Theory"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "K8P8uFahAgc",
+    "videoPublishedAt" : "2015-05-24T05:25:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ryskJXO0TzAvVIdBeHS6ankNHKo\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "An explanation of a neat circle puzzle involving combinatorics, graphs, Euler's characteristic formula and pascal's triangle.\n\nTypo: At 7:30, the second term at the very bottom should have \"k-1\" instead of \"k\"\n\nMusic: Wyoming 307 by Time for Three",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 15,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "K8P8uFahAgc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/K8P8uFahAgc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/K8P8uFahAgc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/K8P8uFahAgc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/K8P8uFahAgc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/K8P8uFahAgc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Circle Division Solution"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "-9OUyo8NFZg",
+    "videoPublishedAt" : "2015-06-21T06:05:43.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/jrqNdSG8ff_WW2n8BqUUfA6Ho5U\"",
+  "id" : "UEw1djRvOHFpUm8zV3locmowSGNJNW5PYXZSc2RlZGluZy41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A description of planar graph duality, and how it can be applied in a particularly elegant proof of Euler's Characteristic Formula.\n\nMusic: Wyoming 307 by Time For Three",
+    "playlistId" : "PL5v4o8qiRo3Wyhrj0HcI5nOavRsdeding",
+    "position" : 16,
+    "publishedAt" : "2020-02-29T12:48:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "-9OUyo8NFZg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/-9OUyo8NFZg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/-9OUyo8NFZg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/-9OUyo8NFZg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/-9OUyo8NFZg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/-9OUyo8NFZg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Euler's Formula and Graph Duality"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

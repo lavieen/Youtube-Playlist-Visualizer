@@ -1,0 +1,1888 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "hUhisi2FBuw",
+    "videoPublishedAt" : "2015-04-14T11:42:57.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/xCv8f6I1lgePFkKGiOeRIANbiLA\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill details the engineering choices underlying the design of a beverage can He explains why it is cylindrical, outlines the manufacturing steps needed to created the can, notes why the can narrows near it lid, show close ups of the double-seam that hold the lid on, and details the complex operation of the tab that opens the can. \n☛ Links to additional videos:\nRexam: http://www.youtube.com/watch?v=7dK1VVtja5c\nHow It’s Made: http://www.youtube.com/watch?v=V7Y0zAzoggY\nAnim1: https://www.youtube.com/watch?v=WU_iSQa37aA\nAnim2:https://www.youtube.com/watch?v=hcsDxCagWrY\nDrawing: https://www.youtube.com/watch?v=DF4v-phuneI\nRedrawing: http://www.youtube.com/watch?v=iUAijpuzwCU",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 0,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hUhisi2FBuw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hUhisi2FBuw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hUhisi2FBuw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/hUhisi2FBuw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hUhisi2FBuw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/hUhisi2FBuw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Ingenious Design of the Aluminum Beverage Can"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ixxXhZVFXxQ",
+    "videoPublishedAt" : "2018-02-06T12:00:07.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/nWTx6CnZFsf3pgRFGEgBrWesGuc\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "You can learn more about Bill's book Fatal Flight, The True Story of Britain's Last Great Airship -- including listening to an audio version for free -- at www.engineerguy.com/airship or here on youtube (see link below).\n\nFatal Flight brings vividly to life the year of operation of R.101, the last great British airship—a luxury liner three and a half times the length of a 747 jet, with a spacious lounge, a dining room that seated fifty, glass-walled promenade decks, and a smoking room. The British expected R.101 to spearhead a fleet of imperial airships that would dominate the skies as British naval ships, a century earlier, had ruled the seas. The dream ended when, on its demonstration flight to India, R.101 crashed in France, tragically killing nearly all aboard.\n    Combining meticulous research with superb storytelling, Fatal Flight guides us from the moment the great airship emerged from its giant shed—nearly the largest building in the British Empire—to soar on its first flight, to its last fateful voyage. The full story behind R.101 shows that, although it was a failure, it was nevertheless a supremely imaginative human creation. The technical achievement of creating R.101 reveals the beauty, majesty, and, of course, the sorrow of the human experience.\n\n    The narrative follows First Officer Noel Atherstone and his crew from the ship’s first test flight in 1929 to its fiery crash on October 5, 1930. It reveals in graphic detail the heroic actions of Atherstone as he battled tremendous obstacles. He fought political pressures to hurry the ship into the air, fended off Britain’s most feted airship pilot, who used his influence to take command of the ship and nearly crashed it, and, a scant two months before departing for India, guided the rebuilding of the ship to correct its faulty design. After this tragic accident, Britain abandoned airships, but R.101 flew again, its scrap melted down and sold to the Zeppelin Company, who used it to create LZ 129, an airship even more mighty than R.101—and better known as the Hindenburg.\n\n    Set against the backdrop of the British Empire at the height of its power in the early twentieth century, Fatal Flight portrays an extraordinary age in technology, fueled by humankind’s obsession with flight.\n\nLink to Audiobook on YouTube\n https://www.youtube.com/watch?v=97OnTDaLqqk&list=PL0INsTTU1k2Vh4m4jS9oVE7GFga7OLaBZ",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 1,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ixxXhZVFXxQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ixxXhZVFXxQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ixxXhZVFXxQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ixxXhZVFXxQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ixxXhZVFXxQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ixxXhZVFXxQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Britain's Giant Airship: R.101"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "UCKC-QVcVn0",
+    "videoPublishedAt" : "2018-01-30T12:00:02.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/QEMYJ_OYOFt1a9LSrIgavhzY_vw\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill reveals the operation and engineering design underlying the famous drinking bird toy. In this video he explores the role played by the water the bird \"drinks,\" shows what is under the bird's hat and demonstrates that it can operate using heat from a light bulb or by \"drinking\" whiskey. You can find more of Bill's videos and his books at www.engineerguy.com.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 2,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "UCKC-QVcVn0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/UCKC-QVcVn0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/UCKC-QVcVn0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/UCKC-QVcVn0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/UCKC-QVcVn0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/UCKC-QVcVn0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Engineering of the Drinking Bird"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "0MwMkBET_5I",
+    "videoPublishedAt" : "2011-06-20T13:12:53.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/mojGkAIdDT4SmHa-jI4Qyxn78YU\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill uses a bucket of propylene glycol to show how a fiber optic cable works and how engineers send signal across oceans. More info at http://www.engineerguy.com. You can translate captions at http://www.engineerguy.com/translate",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 3,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "0MwMkBET_5I"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/0MwMkBET_5I/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/0MwMkBET_5I/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/0MwMkBET_5I/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/0MwMkBET_5I/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/0MwMkBET_5I/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Fiber optic cables: How they work"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "kp33ZprO0Ck",
+    "videoPublishedAt" : "2012-06-26T11:00:10.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/QdsyoV-0AgVJU7V4L4OzMFDMTcY\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill details how a microwave oven heats food. He describes how the microwave vacuum tube, called a magnetron, generates radio frequencies that cause the water in food to rotate back and forth. He shows the standing wave inside the oven, and notes how you can measure the wavelength with melted cheese. He concludes by describing how a magnetron generates radio waves. You can learn more about the microwave oven from the EngineerGuy team's new book Eight Amazing Engineering Stories http://www.engineerguy.com/elements",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 4,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "kp33ZprO0Ck"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/kp33ZprO0Ck/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/kp33ZprO0Ck/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/kp33ZprO0Ck/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/kp33ZprO0Ck/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/kp33ZprO0Ck/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a Microwave Oven Works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jiejNAUwcQ8",
+    "videoPublishedAt" : "2011-03-17T03:12:47.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/kkGuy_cYKKdwChE6OPLUyt1uIKg\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill takes apart an LCD monitor and shows how it works. He explains how it uses liquid crystals, thin film transistors and polarizers to display information. EngineerGuy's new book is at http://www.engineerguy.com/elements.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 5,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jiejNAUwcQ8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/jiejNAUwcQ8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/jiejNAUwcQ8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/jiejNAUwcQ8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/jiejNAUwcQ8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/jiejNAUwcQ8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "LCD Monitor Teardown"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ddYZITaxlTQ",
+    "videoPublishedAt" : "2014-06-17T10:39:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ASPbDAj0odLK0LwUWqMCKo0d-uk\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "In 1976 Sony introduced the Betamax video cassette recorder. It catalyzed the \"on demand\" of today by allowing users to record television shows, and the machine ignited the first \"new media\" intellectual property battles. In only a decade this revolutionary machine disappeared, beaten by JVS's version of the cassette recorder. This video tells the story of why Betamax failed. This is one of three videos in a series on marketplace failures of technological objects. http://www.engineerguy.com/failure.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 6,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ddYZITaxlTQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ddYZITaxlTQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ddYZITaxlTQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ddYZITaxlTQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ddYZITaxlTQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ddYZITaxlTQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How Sony's Betamax lost to JVC's VHS Cassette Recorder"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KZVgKu6v808",
+    "videoPublishedAt" : "2012-05-22T11:00:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/K7tZF6SFof9ECk2h6gCDs_GWdSg\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill takes apart a smartphone and explains how its accelerometer works. He also shares the essential idea underlying the MEMS production of these devices.This video is based on a chapter from the EngineerGuy team's latest book Eight Amazing Engineering Stories (Learn more at http://www.engineerguy.com/elements)",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 7,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KZVgKu6v808"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KZVgKu6v808/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KZVgKu6v808/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/KZVgKu6v808/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KZVgKu6v808/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/KZVgKu6v808/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a Smartphone Knows Up from Down (accelerometer)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "F5Ri_HhziI0",
+    "videoPublishedAt" : "2010-12-20T21:49:02.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/vY569q5ObQolA-UrUZ9lZRjbGr8\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill reveals how  \"queueing theory\" -  developed by engineers to route phone calls -  can be used to find the most efficient arrangement of cashiers and check out lines. He reports on the work of Agner Erlang, a Danish engineer who, at the opening of the 20th century, helped the Copenhagen Telephone Company provide the best level of service at the lowest price.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 8,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "F5Ri_HhziI0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/F5Ri_HhziI0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/F5Ri_HhziI0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/F5Ri_HhziI0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/F5Ri_HhziI0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/F5Ri_HhziI0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Why the other line is likely to move faster"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Wiy_eHdj8kg",
+    "videoPublishedAt" : "2011-06-05T05:08:05.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/J5MyNRR3KcDAahV0TcDw_qkM0cw\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill opens up a computer hard drive to show how it is engineered. He describes how the \"head\" reads the magnetic information on the disk; reveals how a voice coil motor and a slider controls the position of that head. He also discusses how smooth a disk must be, and briefly mentions a mathematical technique that allows engineers to pack more information on a drive.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 9,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Wiy_eHdj8kg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Wiy_eHdj8kg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Wiy_eHdj8kg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Wiy_eHdj8kg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Wiy_eHdj8kg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Wiy_eHdj8kg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hard drive teardown"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qCxco6227xo",
+    "videoPublishedAt" : "2015-11-18T12:00:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/AGCpNBnwX_yFCuDv1qnAIrhE72g\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill reveals the engineering design of a NERF blaster, including how it shoots only one dart at a time using a novel air restriction mechanism.\nLinks mentioned int he video\nView Steve's original video at \nhttps://www.youtube.com/watch?v=H4he8Pfywd0\nYou can become an advanced viewer at www.engineerguy.com/preview",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 10,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qCxco6227xo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qCxco6227xo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qCxco6227xo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/qCxco6227xo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qCxco6227xo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qCxco6227xo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "NERF Blaster:  Air Restriction Mechanism"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "oUEbMjtWc-A",
+    "videoPublishedAt" : "2012-06-05T11:00:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/u2hFG1Jvt7w-gc0ymqqZkSAB5Lo\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill shows how the three key characteristics of laser light - single wavelength, narrow beam, and high intensity - are made. He explains the operation of a ruby laser - the first laser ever made - showing how electronic transitions create stimulated emission to give coherent light, and then how the ends of the ruby cavity create a narrow wavelength highly collimated beam.  You can learn more about laser in the EngineerGuy team's new book Eight Amazing Engineering Stories http://www.engineerguy.com/elements",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 11,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "oUEbMjtWc-A"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/oUEbMjtWc-A/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/oUEbMjtWc-A/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/oUEbMjtWc-A/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/oUEbMjtWc-A/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/oUEbMjtWc-A/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a Laser Works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1pM6uD8nePo",
+    "videoPublishedAt" : "2010-12-14T08:57:16.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/LuinvGTvpzCOfDkp_OJ3na0iKps\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "The amazing everyday wristwatch: We never think about it, but only because engineers have made it so reliable and durable that we don't\r\nneed to. At its heart lies a tiny tuning fork made of the mineral quartz. In this video Bill takes apart a cheap watch and shows extreme\r\nclose-ups of the actually tunings fork. He explains how the piezoelectric effect of quartz lies at the heart of the watch's\r\noperation.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 12,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1pM6uD8nePo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1pM6uD8nePo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1pM6uD8nePo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/1pM6uD8nePo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1pM6uD8nePo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1pM6uD8nePo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a quartz watch works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bRCNenhcvpw",
+    "videoPublishedAt" : "2010-11-07T20:41:11.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/WIU1Ihd0hgkxQMyUnoG52-5y3SQ\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Using slow motion video Bill Hammack, the engineer guy, shows how\nIBM's revolutionary \"golf ball\" typewriter works. He describes the\nmarvelous completely mechanical digital-to-analogue converter that\ntranslates the discrete impulse of the keys to the rotation of the\ntype element. (This is the typewriter featured on the television series Mad Men.)",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 13,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bRCNenhcvpw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bRCNenhcvpw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bRCNenhcvpw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bRCNenhcvpw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bRCNenhcvpw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bRCNenhcvpw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IBM Selectric Typewriter & its digital to analogue converter"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MhVw-MHGv4s",
+    "videoPublishedAt" : "2015-09-22T12:04:16.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/N1kL18KuQlZRksu13P85Zex-6IM\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi41Mzk2QTAxMTkzNDk4MDhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "A ballpoint pen seems simple: press a button you can write, press again and put it in your pocket. Yet inside a clever mechanisms turns that simple push into all sorts of other motions. This video uses detailed animation to look inside the iconic Parker Jotter ink pen and see how it works. You can become an advanced viewer of engineerguy videos by signing up at http://www.engineerguy.com/preview.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 14,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MhVw-MHGv4s"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MhVw-MHGv4s/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MhVw-MHGv4s/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/MhVw-MHGv4s/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MhVw-MHGv4s/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/MhVw-MHGv4s/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a Retractable Ballpoint Pen Works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OcgKDSwINOA",
+    "videoPublishedAt" : "2012-06-19T11:00:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/X5HqNC2DTY18eaI63FW38DVPHw0\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill explains that the hardest step is making the proper type of uranium. Weapons and power plants require uranium that contains a greater amount of the isotope uranium-235 than found in natural uranium, which is mostly uranium-238. He outlines the key difficulty in separating the two isotope: They have nearly identical properties. He explains the two key methods for separation: Gas diffusion and centrifuges.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 15,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OcgKDSwINOA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OcgKDSwINOA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OcgKDSwINOA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OcgKDSwINOA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OcgKDSwINOA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OcgKDSwINOA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "What Keeps Nuclear Weapons from Proliferating: The hardest step in making a nuclear bomb"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RMjtmsr3CqA",
+    "videoPublishedAt" : "2015-11-24T12:00:00.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/EHlRFiQtjX9G1vEJMZXF2yl3lnw\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill details the key engineering principles underlying plastic injection molding. He describes its history and, then,  reveals the intricate details of the process. He shows viewers where to found, on any injection-molding product, the markings created by injection molding. He closes with a description of the one of the finest examples of the injection molding: the Lego brick. \n\nOverview video: https://www.youtube.com/watch?v=eUthHS3MTdA\nMold manufacture: https://www.youtube.com/watch?v=seZqq1qxW30\nPlastic bottle cap production: https://www.youtube.com/watch?v=WHwTHarf8Ck\nMaking Lego bricks: https://www.youtube.com/watch?v=wnRRDIFNxoM\n99 Percent Invisible: http://99percentinvisible.org/episode/the-post-billiards-age/",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 16,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RMjtmsr3CqA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/RMjtmsr3CqA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/RMjtmsr3CqA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/RMjtmsr3CqA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/RMjtmsr3CqA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/RMjtmsr3CqA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Plastic Injection Molding"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3ZhVOy-ytJY",
+    "videoPublishedAt" : "2012-05-29T11:00:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/BH_TJpZAFypRKneXzQ893apYAg4\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4yMUQyQTQzMjRDNzMyQTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill describes how metals like aluminum and titanium are made resistant to corrosion by growing an oxide layer into the metals. These is the same process used on many Apple products. This video is based on a chapter in the book Eight Amazing Engineering Stories; learn more at http://www.engineerguy.com/elements.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 17,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3ZhVOy-ytJY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3ZhVOy-ytJY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3ZhVOy-ytJY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/3ZhVOy-ytJY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3ZhVOy-ytJY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/3ZhVOy-ytJY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Anodizing (Or the beauty of corrosion)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "p2BxAu6WZI8",
+    "videoPublishedAt" : "2012-06-12T11:00:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/bZ1r1CJ-J2gDi5CnHpnS0ir7Ep8\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi45RTgxNDRBMzUwRjQ0MDhC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill shows the world's smallest atomic clock and then describes how the first one made in the 1950s worked. He describes in detail the use of cesium vapor to create a feedback or control loop to control a quartz oscillator. He highlights the importance of atomic team by describing briefly how a GPS receiver uses four satellites to find its position.  You can learn more about atomic clocks and the GPS system in the EngineerGuy team's new book Eight Amazing Engineering Stories http://www.engineerguy.com/elements",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 18,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "p2BxAu6WZI8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/p2BxAu6WZI8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/p2BxAu6WZI8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/p2BxAu6WZI8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/p2BxAu6WZI8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/p2BxAu6WZI8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How an atomic clock works, and its use in the global positioning system (GPS)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "fHmgF4ibmuk",
+    "videoPublishedAt" : "2015-02-11T06:30:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/qLvHG45Yw6Em_zQoyAdHKtpcCvY\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5ENDU4Q0M4RDExNzM1Mjcy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill shares fascinating images and information gleaned from the 1909 to 1911 editions of the Journal The Engineer. It includes photos of the construction of the Titanic and its twin the Olympic, the launching of these Olympic-class ships, and accidents that occurred. The video includes engineering details of the ship’s engines, steering mechanism, and propellers.\n\nBecome an advanced viewer and help review early drafts of new videos: http://www.engineerguy.com/support/",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 19,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "fHmgF4ibmuk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/fHmgF4ibmuk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/fHmgF4ibmuk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/fHmgF4ibmuk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/fHmgF4ibmuk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/fHmgF4ibmuk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "RMS Titanic: Fascinating Engineering Facts"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4j4Q_YBRJEI",
+    "videoPublishedAt" : "2010-11-22T15:05:48.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/T4qNyrVZyyosDKdhu_PPIzCnYzM\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4yMDhBMkNBNjRDMjQxQTg1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill takes apart a coffee maker to show how hot water is pumped through it using a \"bubble pump.\" The use of this pump reflects an engineer's choice to have only one heating element to lower the cost.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 20,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4j4Q_YBRJEI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4j4Q_YBRJEI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4j4Q_YBRJEI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/4j4Q_YBRJEI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4j4Q_YBRJEI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/4j4Q_YBRJEI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Coffee Maker: Pumping water with no moving parts"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "DIGqBb3iZPo",
+    "videoPublishedAt" : "2011-02-28T16:30:37.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/2A7jo4GQcLjqpXnmsCoayl-NCoo\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5GM0Q3M0MzMzY5NTJFNTdE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill takes apart an incandescent to show how the tungsten filament is made. He shows it in extreme close-up and also discusses the material processing needed to produce ductile tungsten.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 21,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "DIGqBb3iZPo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/DIGqBb3iZPo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/DIGqBb3iZPo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/DIGqBb3iZPo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/DIGqBb3iZPo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/DIGqBb3iZPo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Light bulb filament"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xlY5W7be5jU",
+    "videoPublishedAt" : "2010-11-30T06:06:59.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/0ocsWdKAzWSDapE1nIxbhdWQ__4\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4zRjM0MkVCRTg0MkYyQTM0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill opens up a vintage \"black box\" from a Delta airlines jetliner. He describes how the box withstands high temperatures and crash velocities because it is made from Inconel: A superalloy steels that is used in furnaces and others extreme environments. The flight data recorder he shows is a Sundstrand FA-542 and was likely used on a DC-9 in the 1970s, although it could have been used as late as 1988 on a Boeing 727.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 22,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xlY5W7be5jU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xlY5W7be5jU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xlY5W7be5jU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/xlY5W7be5jU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xlY5W7be5jU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/xlY5W7be5jU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Black box: Inside a flight data recorder"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "oFUUQcpGR3k",
+    "videoPublishedAt" : "2011-03-06T17:40:25.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/nP1vhHArjMNZo9d44mchRp3K9EQ\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi45NzUwQkI1M0UxNThBMkU0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill takes apart a smoke detector and shows how it uses a radioactive source to generate a tiny current which is disrupted when smoke flows through the sensor. He describes how a special transistor called a MOSFET can be used to detect the tiny current changes.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 23,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "oFUUQcpGR3k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/oFUUQcpGR3k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/oFUUQcpGR3k/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/oFUUQcpGR3k/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/oFUUQcpGR3k/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/oFUUQcpGR3k/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How smoke detectors work"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZnUBl90tayI",
+    "videoPublishedAt" : "2014-06-17T10:39:30.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/0o8ccVy3Ujcj9JOketdcF5jkaDk\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5DNzE1RjZEMUZCMjA0RDBB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Perhaps no technological failure is better known than that of the Dvorak keyboard. Since the early 1870s nearly every typewriter used a keyboard with a QWERTY layout, yet most studies show the Dvorak arrangement of keys to be faster. This videos probes the underlying reasons that this arrangement failed to make headway in the marketplace. This video tells the story of why the Dvorak keyboard failed. This is one of three videos in a series on marketplace failures of technological objects. http://www.engineerguy.com/failure.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 24,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZnUBl90tayI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ZnUBl90tayI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ZnUBl90tayI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ZnUBl90tayI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ZnUBl90tayI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ZnUBl90tayI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Why the Dvorak keyboard didn't take over the world"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wsdmt0De8Hw",
+    "videoPublishedAt" : "2012-05-15T11:00:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/B3_WGaDHUfHA6eMuwns0Qq2lGUs\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi43MTI1NDIwOTMwQjIxMzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill takes apart a digital camera and explains how its captures images using a CCD (charge coupled device). He also shares how a single CCD is used with a color filter array to create colored images. This video is based on a chapter from the EngineerGuy team's latest book Eight Amazing Engineering Stories (Learn more at http://www.engineerguy.com/elements)",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 25,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wsdmt0De8Hw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wsdmt0De8Hw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wsdmt0De8Hw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/wsdmt0De8Hw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wsdmt0De8Hw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/wsdmt0De8Hw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "CCD: The heart of a digital camera (how a charge-coupled device works)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RdYHljZi7ys",
+    "videoPublishedAt" : "2010-12-07T12:28:57.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/wyTUkC5LtgoOTNzWwzrSQtuRorQ\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill uses a replica of the point contact transistor built by Walter Brattain and John Bardeen at Bell Labs. On December 23, 1947 they used this device to amplify the output of a microphone and thus started the microelectronics revolution that changed the world. He describes in detail why a transistor works by highlighting the uniqueness of semiconductors in being able to transfer charge by positive and negative carriers.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 26,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RdYHljZi7ys"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/RdYHljZi7ys/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/RdYHljZi7ys/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/RdYHljZi7ys/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/RdYHljZi7ys/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/RdYHljZi7ys/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How the first transistor worked"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "rhIRD5YVNbs",
+    "videoPublishedAt" : "2012-07-03T11:00:10.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/inHLupduoeA_6Fhx7g8DdAYQw1U\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4yQUE2Q0JEMTk4NTM3RTZC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill explains the essential principles of a lead-acid battery. He shows the inside of motorcycle lead-acid battery, removes the lead and lead-oxide plates and shows how they generate a 2 volt potential difference when placed in sulfuric acid. He explains how the build up of lead sulfate between the plates will make the battery unusable if it discharged completely, which leads him to a description of how to make a deep cycle battery used for collecting solar energy. You can find the status of future video series at this link: http://engineerguy-ideas.wikispaces.com/Current+status+of+series+in+production",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 27,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "rhIRD5YVNbs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/rhIRD5YVNbs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/rhIRD5YVNbs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/rhIRD5YVNbs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/rhIRD5YVNbs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/rhIRD5YVNbs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a lead-acid battery works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "z7r8sKzt7HM",
+    "videoPublishedAt" : "2011-06-05T05:01:52.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/0VYVu6u4CBWQuk8LpxBIOKTO6lU\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5DMkU4NTY1QUFGQTYwMDE3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill uses a pile of old cell phones to show the seven basic design constraints that shape a mobile phone. You can find a transcript of this video at http://www.engineerguy.com/videos/video-cell-02.htm. If you would like to translate the captions first check on YouTube to see what translations we have and if we your language hasn't been translated visit http://www.engineerguy.com/translate",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 28,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "z7r8sKzt7HM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/z7r8sKzt7HM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/z7r8sKzt7HM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/z7r8sKzt7HM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/z7r8sKzt7HM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/z7r8sKzt7HM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Cell Phone Design"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "En__V0oEJsU",
+    "videoPublishedAt" : "2015-07-07T11:17:24.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ITwgcIftNAFazcv-pyNkGLwWmoo\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi44Mjc5REFBRUE2MTdFRDU0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill tears apart a film projector to reveal the amazing mechanisms used in the pre-digital age to trick the mind into seeing a moving image. He uses high speed photography and animations to show how the projector moves the film intermittently, how a shutter strategically blocks light as the film moves, and how the photo sensor reads the sound. He explains how all these mechanisms are synced.\n\nYou can become an advanced viewer of engineerguy videos by signing up at http://www.engineerguy.com/preview.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 29,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "En__V0oEJsU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/En__V0oEJsU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/En__V0oEJsU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/En__V0oEJsU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/En__V0oEJsU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/En__V0oEJsU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a Film Projector Works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NAsM30MAHLg",
+    "videoPublishedAt" : "2014-11-11T12:05:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/_zdTut7jGCf2ye4umF4I4nRKkA8\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi43NDhFRTgwOTRERTU4Rjg3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "► Learn more at: http://www.engineerguy.com/fourier\n► Buy the book on Amazon: http://www.amazon.com/gp/product/0983966176/\n► Buy the posters on Zazzle: http://www.zazzle.com/engineerguy\n\n► Main videos in the series:\n(2/4) Synthesis:https://www.youtube.com/watch?v=8KmVDxkia_w\n(3/4) Analysis: https://www.youtube.com/watch?v=6dW6VYXp9HM\n(4/4) Operation: https://www.youtube.com/watch?v=jfH-NbsmvD4\n\n► Bonus videos:\nBooks and Posters: https://www.youtube.com/watch?v=YXgTwrblClQ\nPage-by-Page: https://www.youtube.com/watch?v=rMHw9GCAtE8\nSpinning Machine: https://www.youtube.com/watch?v=XPQwKRt4Y2k\nRocker Arms: https://www.youtube.com/watch?v=4mBuyixt22U\n\nThis introduction to the series Albert Michelson’s Harmonic Analyzer celebrates a nineteenth century mechanical computer that performed Fourier analysis by using gears, springs and levers to calculate with sines and cosines—an astonishing feat in an age before electronic computers. Check out the series companion book and learn how to get a free PDF of the entire book at http://www.engineerguy.com/fourier.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 30,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NAsM30MAHLg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NAsM30MAHLg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NAsM30MAHLg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/NAsM30MAHLg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NAsM30MAHLg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NAsM30MAHLg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "(1/4) Intro/History: Introducing a 100-year-old mechanical computer"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WzdCKBZP4Jo",
+    "videoPublishedAt" : "2014-06-17T10:38:53.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/YcSn5kEKPakuWggQWrrTFEWfpsA\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi41QUZGQTY5OTE4QTREQUU4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "How Bell Telephone's PicturePhone, introduced in 1964, flopped yet nearly catalyzed the internet. Technically, it was an amazing achievement: Bell used the existing twisted-pair copper wire of the telephone network -- not broadband lines like today -- to produce black and white video on a screen about five inches square. And, amazingly for the time, it used a CCD-based-camera. It  was meant to be the most revolutionary communication medium of the century, driving subscribers to purchase broadband lines, but failed miserably as a consumer product costing Bell a half billion dollars. This is one of three videos in a series on marketplace failures of technological objects. http://www.engineerguy.com/failure.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 31,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WzdCKBZP4Jo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WzdCKBZP4Jo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WzdCKBZP4Jo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/WzdCKBZP4Jo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WzdCKBZP4Jo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/WzdCKBZP4Jo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "PicturePhone: How Bell Telephone lost a half billion, but nearly created the internet"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xYNX8y6lQMc",
+    "videoPublishedAt" : "2016-06-14T11:00:05.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/_ymzpfGZmrae3W_Sd9th7LJw0Q8\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi4zRDBDOEZDOUM0MDY5NEEz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill reveals the stunning engineering underlying the design of a diaper. He describes the five layers of a diaper, including the superabsorbent polymer in the diaper's core. He illustrates the action of this polymer with a stunning demonstration using a single bead of polymer: it soaks up enough water to grow from a diameter of 4 mm to nearly a half inch.\n\nYou can bundle watch Bill's videos using this playlist: \nhttps://www.youtube.com/playlist?list=PL0INsTTU1k2UO-2-AwomFmAs4nuZU9ht3\nIf you are interested in mechanical computers you'll likely enjoy his series on Albert Michelson's Harmonic Analyzer -- a 19th century machine that calculates Fourier transforms:\nhttps://www.youtube.com/playlist?list=PL0INsTTU1k2UYO9Mck-i5HNqGNW5AeEwq\n\nCreative Commons Images Used in Video\nFirst cotton image is by dotlizard\nhttps://www.flickr.com/photos/dotlizard/3629871635/in/photolist-6wL3nH-fJCtP7-fJkZp6-fJm2NF-fJCjAG-9rbWDz-fJkXaR-fJCpnq-fJChsW-fJCj3j-fJkYqv-fJkMFH-fJkKQX-fJCx81-9fbqAS-2t7dsV-fJkYD4-evCAQr-7Rvj3n-9jv7xw-fJkVtr-fJChL5-6wL3Pt-fJCiJS-a8NCNs-fJkM1i-83KHYS-7Zd86f-81FxpK-8RJew9-71gYqx-4udP27-6eTbUK-a8NP7h-6YVZZZ-dvsWpG-7fpXY7-bwuAiT-pajewh-p3KEYV-effXoi-dcgm8d-cmLp8j-74NMSZ-a8N2W5-evAizP-9Q4GZk-7vUdin-oLfTJy-72Bmcy\n\nThe cotton candy image is from Stefano Mortellaro\nhttps://www.flickr.com/photos/fazen/7046055433/in/photolist-bJCSNn-6EqFUq-scFn8R-kgWY1-g7QoZ-dxRQPM-eee8g9-7Trb4U-AKUjg-91ex6a-6SbCJe-8uBSRj-4SJoSi-py7we-4yrDzi-nCkFi-5YQ7es-aoDwDH-71jQhR-fvLrWL-4UJWoT-btC63o-72SYjo-8uyPWz-4SNC91-nJBQmd-776pxp-aCEG6X-9sPSN7-5AZV1s-4aTwB-8jmZFT-4yvWfN-4qSkK-714Yu4-MyqRs-bAAmGK-cxG7L9-NJbXr-pxJ9zB-dkge4S-JcjEY-3bg2bB-8DVyJg-MyqzN-3eugRY-aqjzmR-e7DTDb-4yvWFw-asawee",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 32,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xYNX8y6lQMc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xYNX8y6lQMc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xYNX8y6lQMc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/xYNX8y6lQMc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xYNX8y6lQMc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/xYNX8y6lQMc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Engineering of a Disposable Diaper"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "hVCNS2jQQ6g",
+    "videoPublishedAt" : "2016-06-07T11:00:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/u-3biVYQWK3Q_wLj_L3pLDzuRgA\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi5CMEQ2Mjk5NTc3NDZFRUNB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill describes the Alignment Optical Telescope used in the Lunar Module on the Apollo missions to the moon. This telescope took star sightings which were used to align the Module's guidance system. Bill shows how the telescope used an Archimedes spiral inscribed on its eyepiece to replace the heavy motors, worm gears, and rigid tracks used in a traditional sextant -- this shaved weight from the Lunar Module and allowed it to carry more fuel.\n\nYou can bundle watch Bill's videos using this playlist: \nhttps://www.youtube.com/playlist?list=PL0INsTTU1k2UO-2-AwomFmAs4nuZU9ht3\n\nIf you are interested in mechanical computers you'll likely enjoy his series on Albert Michelson's Harmonic Analyzer -- a 19th century machine that calculates Fourier transforms:\nhttps://www.youtube.com/playlist?list=PL0INsTTU1k2UYO9Mck-i5HNqGNW5AeEwq",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 33,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hVCNS2jQQ6g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hVCNS2jQQ6g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hVCNS2jQQ6g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/hVCNS2jQQ6g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hVCNS2jQQ6g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/hVCNS2jQQ6g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Apollo: The Alignment Optical Telescope"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "COty6_oDEkk",
+    "videoPublishedAt" : "2015-12-08T12:00:01.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/ChVVGSRW0un5ukHlfBCU96q82so\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi42MTI4Njc2QjM1RjU1MjlG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill reveals the engineering inside a toy music box. He describes how the comb is mass manufactured, details the spring, gears and governor that drive the box, and shares some history of early music boxes. Outtakes are included at the end of the video.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 34,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "COty6_oDEkk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/COty6_oDEkk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/COty6_oDEkk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/COty6_oDEkk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/COty6_oDEkk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/COty6_oDEkk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How a Wind Up Music Box Works"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NLqsQ-f2v6s",
+    "videoPublishedAt" : "2012-05-15T11:00:08.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/YjZA_gDC13etJBczZErls1zavZQ\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi45RjNFMDhGQ0Q2RkFCQTc1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "Bill describes the EngineerGuy team's latest book Eight Amazing Engineering Stories, which forms the basis of EngineerGuy video series #4. http://www.engineerguy.com/elements. He shares the formats its available in (paperback, ebook, and hardcover) and describes the contents of the book. This book forms the basis of engineering guy series #4. Eight Amazing Engineering Stories reveals the stories behind how engineers use specific elements to create the material world around us. In eight chapters, the EngineerGuy team exposes the magnificence of the innovation and engineering of digital camera imagers, tiny accelerometers, atomic clocks, enriched uranium, batteries, microwave ovens, lasers, and anodized\nmetals. In addition, short primers cover the scientific principles underlying the engineering, including waves, nuclear structure, and electronic transitions. \"In Depth\" sections cover entropy, semiconductors, and the mathematics of capacitors.",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 35,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NLqsQ-f2v6s"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NLqsQ-f2v6s/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NLqsQ-f2v6s/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/NLqsQ-f2v6s/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NLqsQ-f2v6s/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NLqsQ-f2v6s/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "EngineerGuy's New Book  Eight Amazing Engineering Stories"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "GOOOsBhCVe4",
+    "videoPublishedAt" : "2012-03-31T03:50:09.000Z"
+  },
+  "etag" : "\"SJZWTG6xR0eGuCOh2bX6w3s4F94/LoBrpGH78M0whf4zL3IPnVDEkiI\"",
+  "id" : "UEw1djRvOHFpUm8zVmRzMW1sWnJheFdQQmg5QkZGSERKTi40QTA3NTU2RkM1QzlCMzYx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCgtgUn-NJf4KMHkWZDH1oew",
+    "channelTitle" : "Akash Meshram",
+    "description" : "This video contains a short announcement about the companion book for engineerguy series #4 (due out soon) plus outtakes. You can learn more about the companion book at http://www.engineerguy.com/elements",
+    "playlistId" : "PL5v4o8qiRo3Vds1mlZraxWPBh9BFFHDJN",
+    "position" : 36,
+    "publishedAt" : "2020-02-29T12:49:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "GOOOsBhCVe4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/GOOOsBhCVe4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/GOOOsBhCVe4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/GOOOsBhCVe4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/GOOOsBhCVe4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/GOOOsBhCVe4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Why it takes a while to make engineerguy videos"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

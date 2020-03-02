@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/Youtube-Playlist-Visualizer",
   plugins: [
     {
       resolve: `gatsby-transformer-json`,

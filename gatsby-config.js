@@ -18,6 +18,15 @@ module.exports = {
         path: `./src/data/`,
       },
     },
-    
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Youtube Playlist visualizer`,
+        short_name: `GatsbyJS`,
+        display: `standalone`,
+        icon: `src/assets/playlist.png`,
+      },
+    },
+    `gatsby-plugin-react-helmet`,
   ],
 }

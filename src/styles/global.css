@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
 
 * {
     box-sizing: border-box;
 }
 
-html, body, #___gatsby {
+html, body, #___gatsby, #gatsby-focus-wrapper {
     height: 100%;
     width: 100%;
     margin:0;
@@ -19,11 +19,9 @@ html {
 }
 
 body {
-    font-family: 'Roboto Mono';
+    font-family: 'Roboto';
     font-weight: 400;
     color: white;
-    /* color: rgba(169, 175, 187, 0.82); */
-    /* background: rgba(31, 40, 62, 0.94); */
     background-image: linear-gradient(to right, rgba(99, 76, 209, 0.94), rgba(168, 106, 220, 0.94), rgba(217, 105, 211, 0.94));
 }
 

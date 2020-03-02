@@ -5,7 +5,6 @@
 .container {
     display: flex;
     justify-content: center;
-    width: 100%;
     flex-wrap: wrap;
 }
 
@@ -15,7 +14,11 @@
     margin: 10px;
     background: rgba(235,226,244,0.1);
     border-radius: 5px;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.item:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .item img {
@@ -31,10 +34,11 @@
 
 .tooltiptext {
     font-size: 12px;
+    font-weight: normal;
     visibility: hidden;
     background-color: white;
     color: gray;
-    border-color: grey;
+    border: 1px solid grey;
     text-align: center;
     padding: 5px 5px;
     

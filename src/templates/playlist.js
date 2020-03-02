@@ -13,6 +13,7 @@ export default ({ data }) => {
       <div className={styles.container}>
         {music.map((node) => {
           const href = "https://www.youtube.com/watch?v=" + node.contentDetails.videoId
+          // const name = node.snippet.position + 1 + " " + node.snippet.title
           const name = node.snippet.title
           const pic = node.snippet.thumbnails.medium.url
           return (
@@ -35,6 +36,7 @@ export const query = graphql`
               url
             }
           }
+          position
         }
         id
         contentDetails {

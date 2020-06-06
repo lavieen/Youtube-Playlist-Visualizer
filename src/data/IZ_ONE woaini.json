@@ -1,0 +1,2195 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "ILfzIejk35c",
+    "videoPublishedAt" : "2019-04-12T05:04:54.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/LPKD1MtCoUzTdDiW72vcm4CwZL8\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS45NzUwQkI1M0UxNThBMkU0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "#조유리  #김채원 #최예나 #IZONE\n\n190412 뮤직뱅크 아이즈원 미니팬미팅\n- 피아노 배경음원 : DooPiano - 비올레타\nhttps://www.youtube.com/watch?v=BR9Ghh4Ml8Y",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 0,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ILfzIejk35c"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ILfzIejk35c/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ILfzIejk35c/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ILfzIejk35c/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ILfzIejk35c/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "190412 아이즈원 IZONE 미니팬미팅 MINI fanmeeting : 조유리 김채원 최예나 focus 직캠 / fancam [4K 60p]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZG5sU0ZmPrQ",
+    "videoPublishedAt" : "2014-12-29T13:52:48.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/RM9Zs2-pSCqoDN2AfRefjXMWkLc\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "2014.12.20 ON AIR / Full HD (1920x1080p), 60fps\nYABUKI Nako & AKASHI Natsuko \"Nakinagara Hohoende\"\n【出演】 vocal 矢吹奈子 (HKT48)／piano and vocal: 明石奈津子 (NMB48)\nPerformers:\nvocal: Nako YABUKI (HKT48), Piano and vocal: Natsuko AKASHI (NMB48)\n\n\n(16.0k c+5 g+10 s+20 K2.2)",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 1,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZG5sU0ZmPrQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ZG5sU0ZmPrQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ZG5sU0ZmPrQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ZG5sU0ZmPrQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ZG5sU0ZmPrQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ZG5sU0ZmPrQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "【Full HD 60fps】 矢吹奈子＆明石奈津子 泣きながら微笑んで (2014.12.20) YABUKI Nako & AKASHI Natsuko"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jrVBFTkgQiw",
+    "videoPublishedAt" : "2018-06-28T04:38:53.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/8cpbyy0nhasp9MI4AXBydKUoxPs\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[단독/직캠] 일대일아이컨택ㅣ조유리 - ♬내꺼야\n[ジッケム] 1:1アイコンタクトㅣチョ・ユリ - ♬ネッコヤ\n\n2018년, 당신의 소녀에게 투표하라!\n국민 프로듀서님! 잘 부탁드립니다!\n\n매주 금요일 밤 11시 본/방/사/수\n\nご視聴はスカパー!、Mnet Japan、Mnet Smartでお楽しみ下さい。\n \n프로듀스48 (PRODUCE48)\nEvery Fri. 11pm (KST)\n- \n\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 2,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jrVBFTkgQiw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/jrVBFTkgQiw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/jrVBFTkgQiw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/jrVBFTkgQiw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/jrVBFTkgQiw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/jrVBFTkgQiw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "PRODUCE48 [단독/직캠] 일대일아이컨택ㅣ조유리 - ♬내꺼야 180629 EP.3"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "AoBpgCZk89w",
+    "videoPublishedAt" : "2018-07-02T05:17:12.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/R8GreqtmtES-bt9mFsmt9I_ihek\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[단독/직캠] 일대일아이컨택ㅣ조유리 - AOA ♬단발머리_1조 @그룹 배틀\n[ジッケム] 1:1アイコンタクトㅣチョ・ユリ - AOA ♬Short Hair_1組 @グループバトル\n\n2018년, 당신의 소녀에게 투표하라!\n국민 프로듀서님! 잘 부탁드립니다!\n\n매주 금요일 밤 11시 본/방/사/수\n\nご視聴はスカパー！、Mnet Japan、Mnet Smartでお楽しみください。\n \n프로듀스48 (PRODUCE48)\nEvery Fri. 11pm (KST)\n-\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 3,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "AoBpgCZk89w"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/AoBpgCZk89w/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/AoBpgCZk89w/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/AoBpgCZk89w/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/AoBpgCZk89w/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/AoBpgCZk89w/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "PRODUCE48 [단독/직캠] 일대일아이컨택ㅣ조유리 - AOA ♬단발머리_1조 @그룹 배틀 180629 EP.3"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CLCHjjqIJIg",
+    "videoPublishedAt" : "2018-07-30T08:07:45.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/BeITh-lWtbRhRCL0YL5PyGvOa4I\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "7시 12분의 첫사랑  7時12分の初恋",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 4,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CLCHjjqIJIg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CLCHjjqIJIg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CLCHjjqIJIg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/CLCHjjqIJIg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CLCHjjqIJIg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CLCHjjqIJIg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "나코 용병시절"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1z7axf44mWI",
+    "videoPublishedAt" : "2018-07-20T16:12:45.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/nNCGGBcwmucH8nSuUelg0-xwtgQ\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[단독/6회] ′프듀48 춤꾼 총집합′ 1등 할게! 미안해U~ㅣDemi Lovato ♬Sorry Not Sorry @포지션 평가\n[#6]'プデュ48ダンサー総集合'ミアンヘU～ㅣDemi Lovato ♬Sorry Not Sorry @ポジション評価\n\n2018년, 당신의 소녀에게 투표하라!\n국민 프로듀서님! 잘 부탁드립니다!\n\n매주 금요일 밤 11시 본/방/사/수\n\nご視聴はスカパー！、Mnet Japan、Mnet Smartでお楽しみください。\n \n프로듀스48 (PRODUCE48)\nEvery Fri. 11pm (KST)\n-\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 5,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1z7axf44mWI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1z7axf44mWI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1z7axf44mWI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/1z7axf44mWI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1z7axf44mWI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1z7axf44mWI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG] PRODUCE48 [단독/6회] ′프듀48 춤꾼 총집합′ 1등 할게! 미안해U~ㅣDemi Lovato ♬Sorry Not Sorry @포지션 평가 180720 EP.6"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Y5B9pxWa3Is",
+    "videoPublishedAt" : "2018-08-17T16:08:18.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/ssk4oV0IUs3NU5HglUb9goQ4tdk\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[10회] ♬Rumorㅣ′작곡가 대만족′ 국.슈(국프의 핫이슈) @콘셉트 평가\n[#10] ♬Rumorㅣ'作曲家が大満足' 国・シュー（国・プのホットイシュー）@コンセプト評価\n\n2018년, 당신의 소녀에게 투표하라!\n국민 프로듀서님! 잘 부탁드립니다!\n\n매주 금요일 밤 11시 본/방/사/수\n\nご視聴はスカパー！、Mnet Japan、Mnet Smartでお楽しみください。\n \n프로듀스48 (PRODUCE48)\nEvery Fri. 11pm (KST)\n-\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 6,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Y5B9pxWa3Is"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Y5B9pxWa3Is/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Y5B9pxWa3Is/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Y5B9pxWa3Is/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Y5B9pxWa3Is/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Y5B9pxWa3Is/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG sub] PRODUCE48 [10회] ♬Rumorㅣ′작곡가 대만족′ 국.슈(국프의 핫이슈) @콘셉트 평가 180817 EP.10"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Cbbwfdsdld0",
+    "videoPublishedAt" : "2017-07-13T12:41:25.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/gJkWoLgC137ucRqYmEWyrgWI-6g\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[릴레이댄스] 아이돌학교 - 예쁘니까\n\n#릴레이댄스 #RelayDance\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 8,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Cbbwfdsdld0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Cbbwfdsdld0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Cbbwfdsdld0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Cbbwfdsdld0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Cbbwfdsdld0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Cbbwfdsdld0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[릴레이댄스] 아이돌학교 - 예쁘니까 운동장ver."
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MOEh-3s7t24",
+    "videoPublishedAt" : "2017-07-06T12:04:05.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/cWWwhWyFiAxCcnm6cK2Uouh1BvE\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 9,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MOEh-3s7t24"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MOEh-3s7t24/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MOEh-3s7t24/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/MOEh-3s7t24/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MOEh-3s7t24/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/MOEh-3s7t24/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[Idol School] #조유리 #사전 데뷔 | Jo Yuri  Pre Debut"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vO8W5t9F1m0",
+    "videoPublishedAt" : "2017-09-15T23:48:25.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/nt2SWXTrI0CjFjNR8SoBLf_UfxM\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[아이컨택캠] 너만보여l 조유리- ♬시간을 달려서 @학기말고사\n\n걸그룹 인재육성 리얼리티 ＜아이돌학교＞ \n매주 금요일 밤 11시 Mnet 단.독.방.송 @학기말고사",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 10,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vO8W5t9F1m0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vO8W5t9F1m0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vO8W5t9F1m0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/vO8W5t9F1m0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vO8W5t9F1m0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/vO8W5t9F1m0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Idol School [아이컨택캠] 너만보여l 조유리- ♬시간을 달려서 @학기말고사 170915 EP.9"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "i0hX4Tr70lQ",
+    "videoPublishedAt" : "2017-07-21T12:13:27.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/NDiQBMRWpT8K0I9X0qM4X599IKc\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "조유리 학생 100초 자기소개 - '아이돌학교 친구들아 반가워'\n육성회원님들! 아이돌학교 조유리입니다. 많은 응원부탁드립니다! \n★사전선행평가투표(사전온라인투표,방송전): www.idolschool.kr\n★데뷔능력평가투표(생방송문자투표,본방송중): #0199\n\n매주 금요일 밤 11시 10분 #0199로 '조유리' 문자투표!",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 11,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "i0hX4Tr70lQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/i0hX4Tr70lQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/i0hX4Tr70lQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/i0hX4Tr70lQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/i0hX4Tr70lQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "조유리 100초 자기소개"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Jz95BjpeoUc",
+    "videoPublishedAt" : "2019-01-12T05:48:48.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/65PKKRMDp6K3pyceR-uUHvJrSwY\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 12,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Jz95BjpeoUc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Jz95BjpeoUc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Jz95BjpeoUc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Jz95BjpeoUc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Jo yuri - Chandelier (sia cover)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ION9mMVmJAg",
+    "videoPublishedAt" : "2019-05-02T13:03:54.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/myW-yU-nV-THG-p65m7VSWKgy6U\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Nako is so cuteee\n\nThis sub is created by denisehly. \nPlease do not edit or reupload without credits.\nPlease feel free to translate into other languages.\nMay contain mistranslations.\n\nTwitter: https://twitter.com/denisehly",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 13,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ION9mMVmJAg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ION9mMVmJAg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ION9mMVmJAg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ION9mMVmJAg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ION9mMVmJAg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ION9mMVmJAg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[Eng sub] 190430 Show Champion Behind MOMOLAND X IZ*ONE cut"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HbeZgqqZf_c",
+    "videoPublishedAt" : "2019-01-09T16:36:47.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/EbjwEaJWiCTYLzvyR6xxzbmoJFA\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 14,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HbeZgqqZf_c"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HbeZgqqZf_c/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HbeZgqqZf_c/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HbeZgqqZf_c/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HbeZgqqZf_c/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HbeZgqqZf_c/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE JO YURI - Nandemonaiya (Kimi No Na Wa OST) Short Version"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wVJYixJOZJQ",
+    "videoPublishedAt" : "2017-07-21T05:33:10.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/ZJpQmZaVj3Sks_2veG0z3Iiulqk\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[풀버전] #조유리 학생 @ 댄스 배틀 (지원자 33명! 댄스브레이크를 잡아라!)\n\n★매주 목요일 밤 9시30분 본방송★\n\n교가′예쁘니까′ 홍보영상 댄스 브레이크 주인공을 건 댄스배틀! 지원자는 총 33명!\n조유리 학생의 댄스배틀 풀버전을 공개합니다!\n\n열심히 배우며 성장하는 학생들을 응원해 주세요!:)\n\n걸그룹 인재육성 리얼리티 아이돌학교\n목요일 밤 9시 30분 Mnet 방송",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 15,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wVJYixJOZJQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wVJYixJOZJQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wVJYixJOZJQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/wVJYixJOZJQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wVJYixJOZJQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/wVJYixJOZJQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Idol School [풀버전] #조유리 학생 @ 댄스 배틀(지원자 33명! 댄스브레이크를 잡아라!) 170720 EP.2"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "XVmbq-b7P3o",
+    "videoPublishedAt" : "2017-07-05T06:45:39.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/vnVYX3-XGbtItZ8uiV9BBjOvnC4\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "아이돌학교ㅣ나도 모르게 미소캠 조유리\n\n아이돌학교 학생들의 빵끗빵끗 미소캠!\n나도 모르게 엄마/아빠/삼촌/이모/오빠/언니/동생 미소:)\n\n미소가 예쁜 학생들의 학교생활을 응원해주세요!\n\n걸그룹 인재육성 리얼리티 아이돌학교\n7월 13일(목) 밤 9시 30분 첫방송",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 16,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "XVmbq-b7P3o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/XVmbq-b7P3o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/XVmbq-b7P3o/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/XVmbq-b7P3o/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/XVmbq-b7P3o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/XVmbq-b7P3o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Idol School [미소캠] 조유리 @ 나도 모르게 미소캠 Part.1 170701 EP.0"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3YrywRDFitI",
+    "videoPublishedAt" : "2017-09-12T07:43:48.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/kkgIO1lKpBlLYf934U0aM8gmVhU\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4yMUQyQTQzMjRDNzMyQTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Play아이돌학교 #2차방과후활동 #조유리 #오락실\n★매주 금요일 밤11시 아이돌학교★\n매주 금요일 11시10분 #0199로 '조유리' 문자투표 부탁드려요!\n\n육성회원님들! 아이돌학교 조유리입니다. 많은 응원부탁드립니다! \n★사전선행평가투표(사전온라인투표,방송전): www.idolschool.kr\n★데뷔능력평가투표(생방송문자투표,본방송중): #0199 조유리",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 17,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3YrywRDFitI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3YrywRDFitI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3YrywRDFitI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/3YrywRDFitI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3YrywRDFitI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/3YrywRDFitI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "아이돌학교 조유리 2차 방과후활동 - 볼링장편"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Q6usy_F56cA",
+    "videoPublishedAt" : "2017-07-13T03:40:07.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/nZPA8aifUUlGvvBdhTNF1cdKiE0\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4yMDhBMkNBNjRDMjQxQTg1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "장비(Camera+Lens): 소니 a7rii + MC-11어댑터 + 삼양 800mm\n보정(Color Grading) : 소니 slog로 찍어서 프리미어 lut모드로 보정해요\n*  유투브 구독(Youtube Subscribe) : https://www.youtube.com/user/TheGsdfhfdsdfh?sub_confirmation=1\n* 트위터(Twitter) : https://twitter.com/TheGsdFh\n* 그룹별 재생목록(Group playlist) : https://www.youtube.com/user/TheGsdfhfdsdfh/playlists\n\n\n1440p이상 화질 추천.\n\nRecommend to see more than 1440p.\n\n아이돌 걸그룹 직캠(IDOL GIRLGROUP FANCAM) Kpop\n\n女子组合的偶像\n\nアイドルガールグループジクケム",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 19,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Q6usy_F56cA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Q6usy_F56cA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Q6usy_F56cA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Q6usy_F56cA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Q6usy_F56cA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Q6usy_F56cA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "아이돌학교(Idol School) 퇴근 대기 Part 1 @170712 홍대 [4k Fancam/직캠"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "dTBTb2wX2Mc",
+    "videoPublishedAt" : "2019-04-13T04:20:24.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/HbWT5B7Ot8CRMzqjzfakW0qeE5U\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5GM0Q3M0MzMzY5NTJFNTdE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "*  유투브 구독(Youtube Subscribe) : https://www.youtube.com/user/TheGsdfhfdsdfh?sub_confirmation=1\n*네이버TV: http://tv.naver.com/thegsd1\n* 트위터(Twitter) : https://twitter.com/TheGsdFh\n* 그룹별 재생목록(Group playlist) : https://www.youtube.com/user/TheGsdfhfdsdfh/playlists\n\n\n장비(Camera+Lens): 소니 a7rii + MC-11어댑터 + Sigma 120-300s\n보정(Color Grading) : 소니 slog로 찍어서 다빈치 리졸브( Davinci Resolve)or 프리미어로 보정해요\n\n\n1440p이상 화질 추천.\n\nRecommend to see more than 1440p.\n\n아이돌 걸그룹 직캠(IDOL GIRLGROUP FANCAM) Kpop\n\n女子组合的偶像\n\nアイドルガールグループジクケム",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 20,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "dTBTb2wX2Mc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/dTBTb2wX2Mc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/dTBTb2wX2Mc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/dTBTb2wX2Mc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/dTBTb2wX2Mc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/dTBTb2wX2Mc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "나코 머리 식혀주는 조유리 아이즈원(IZ*ONE) (Yabuki Nako) 뮤직뱅크 미니팬미팅 @190412 [ 4k Fancam/직캠]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ITPqf4Q9f6o",
+    "videoPublishedAt" : "2017-07-12T23:06:00.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Zm6EYeKi4zGhzzMs-MWsK1_-hXw\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4zRjM0MkVCRTg0MkYyQTM0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "완전 귀엽죠ㅠㅠㅠㅠㅠ유리 응원 많이 해주세요!!",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 21,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ITPqf4Q9f6o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ITPqf4Q9f6o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ITPqf4Q9f6o/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ITPqf4Q9f6o/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ITPqf4Q9f6o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ITPqf4Q9f6o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "아이돌학교 조유리 심쿵...❤️"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "uDCcZVF9ENU",
+    "videoPublishedAt" : "2017-08-22T04:50:39.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/68tH3dz-nnYEAoqGvJo3oewT49Y\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5DNzE1RjZEMUZCMjA0RDBB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "아이돌학교 조유리",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 22,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "uDCcZVF9ENU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/uDCcZVF9ENU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/uDCcZVF9ENU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/uDCcZVF9ENU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/uDCcZVF9ENU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/uDCcZVF9ENU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "예문쇼콰이어 공연 아이돌학교 조유리"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "sxuhxqp5TF0",
+    "videoPublishedAt" : "2019-03-14T07:17:37.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/iopeCpipEy-ekShqHVK2xqOUg_c\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "#izone #아이즈원 #쪼율",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 24,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "sxuhxqp5TF0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/sxuhxqp5TF0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/sxuhxqp5TF0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/sxuhxqp5TF0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/sxuhxqp5TF0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/sxuhxqp5TF0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "iz*one (아이즈원) 조유리 피아노.클래식 하던 때."
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1K86i0RdcG4",
+    "videoPublishedAt" : "2019-02-01T08:49:49.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/UAuZ9sab34fzrpsDjAW7IrTWHqk\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4yQUE2Q0JEMTk4NTM3RTZC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 25,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1K86i0RdcG4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1K86i0RdcG4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1K86i0RdcG4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1K86i0RdcG4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1K86i0RdcG4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Miyawaki Sakura x Yabuki Nako IZ*ONE (SakuNako) Moment Part 1"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RXycfkC9I-g",
+    "videoPublishedAt" : "2019-01-10T00:00:13.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/HTQTRgQRqXFs1XkqSBvJbRFfoJo\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5DMkU4NTY1QUFGQTYwMDE3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "190109 Saku No Ki Radio - Jo Yuri Song Cover\n\n🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸\n\nIZ*ONE 아이즈원 Members (Oldest to Youngest)\n\nKwon Eunbi (권은비)\nSakura Miyawaki (宮脇咲良) (미야와키 사쿠라)\nKang Hyewon (강혜원)\nChoi Yena (최예나)\nLee Chaeyeon (이채연)\nKim Chaewon (김채원)\nNako Yabuki (矢吹奈子) (야부키 나코)\nKim Minjoo (김민주)\nHitomi Honda (本田仁美) (혼다 히토미)\nJo Yuri (조유리)\nAhn Yujin (안유진)\nJang Wonyoung (장원영)\n\n프로듀스 48 PRODUCE48 내꺼야 Pick Me Nekkoya \n\n#IZONE #아이즈원 #MiyawakiSakura",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 26,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RXycfkC9I-g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/RXycfkC9I-g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/RXycfkC9I-g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/RXycfkC9I-g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/RXycfkC9I-g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/RXycfkC9I-g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE Jo Yuri singing Nandemonaiya (Your Name/Kimi no Na wa OST) 아이즈원 조유리"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1CtuDdLKv0o",
+    "videoPublishedAt" : "2019-05-02T14:04:43.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/WJ0gLsq3k8CnC4RgDeYx-0B34bw\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS44Mjc5REFBRUE2MTdFRDU0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 27,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1CtuDdLKv0o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1CtuDdLKv0o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1CtuDdLKv0o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1CtuDdLKv0o/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Jo Yuri - Inochi no namae (Spirited away ost cover)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "IhvK8SK0DLw",
+    "videoPublishedAt" : "2018-06-15T09:47:25.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/XqDbe1Hq3vzkHYrk890n3Hy9QIw\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS43NDhFRTgwOTRERTU4Rjg3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "′고막 여친′ 내꺼야♪ 야부키 나코 & 조유리\n’甘い歌声の彼女’ネッコヤ♪ 矢吹奈子＆チョ・ユリ\n\n프로듀스48을 갖고 싶다면?\n6월 15일 (금) 저녁 6시! 프로듀스48 프롤로그 본/방/사/수\n\nご視聴はスカパー！、Mnet Japan、Mnet Smartでお楽しみください。\n\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 28,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "IhvK8SK0DLw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/IhvK8SK0DLw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/IhvK8SK0DLw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/IhvK8SK0DLw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/IhvK8SK0DLw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/IhvK8SK0DLw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG sub] PRODUCE48 ′고막 여친′ 내꺼야♪ 야부키 나코 & 조유리 180615 EP.15"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yiVea_TgMls",
+    "videoPublishedAt" : "2019-04-01T06:04:17.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/dbmObEqC8cc0DtfX2FTF0PUW6u8\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS41QUZGQTY5OTE4QTREQUU4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "아이즈원 조유리 전시회를 다녀왔습니다. 전 사쿠라팬이지만.. 아이즈원팬이고 순례자니까요!!! \n언제나 빛날 수 있게.\n\nチョユリ展示会に行ってきました。チョユリさんのファン皆さん幸せになりますように。\n\n\n\nStarry Night by Couple N https://soundcloud.com/couple-n-music\nCreative Commons — Attribution 3.0 Unported  — CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic promoted by Audio Library https://youtu.be/rYjQAzZfpMw",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 29,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yiVea_TgMls"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yiVea_TgMls/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yiVea_TgMls/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/yiVea_TgMls/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yiVea_TgMls/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/yiVea_TgMls/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "아이즈원 조유리 전시회에 다녀왔습니다.  IZ*ONE チョユリ展示会に行ってきました。"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "0CRZsCWDReE",
+    "videoPublishedAt" : "2018-06-26T02:57:32.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/v-iQ983RMhskvSMA0Rpub7IwO9M\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4zRDBDOEZDOUM0MDY5NEEz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[단독/풀버전] 스톤뮤직_배은영, 장규리, 이시안, 조유리 ♬Chewing Gum @기획사별 퍼포먼스\n[Full ver] Stone Music_ペ・ウニョン、チャン・ギュリ、イ・シアン、チョ・ユリ ♬Chewing Gum @事務所別パフォーマンス\n\n2018년, 당신의 소녀에게 투표하라!\n국민 프로듀서님! 잘 부탁드립니다!\n\n매주 금요일 밤 11시 본/방/사/수\n\nご視聴はスカパー！、Mnet Japan、Mnet Smartでお楽しみください。\n\n------------------------------------ \n프로듀스48 (PRODUCE48)\nEvery Fri. 11pm (KST)\n-------------------------------------\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 30,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "0CRZsCWDReE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/0CRZsCWDReE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/0CRZsCWDReE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/0CRZsCWDReE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/0CRZsCWDReE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/0CRZsCWDReE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "PRODUCE48 [단독/풀버전] 스톤뮤직_배은영, 장규리, 이시안, 조유리 ♬Chewing Gum @기획사별 퍼포먼스 180622 EP.2"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "N_Ev4429Bhk",
+    "videoPublishedAt" : "2017-08-24T23:50:29.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/IquJlXpVYc3tBk9OMIbD6abJM4Y\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5CMEQ2Mjk5NTc3NDZFRUNB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[아이컨택캠] 너만보여l 조유리 - ♬예쁘다 @학업성취도평가(댄스 中)\n8/31 (목) 본방송중 #0199 조유리 투표해주세요\n\n걸그룹 인재육성 리얼리티 ＜아이돌학교＞ \n매주 목요일 밤 9시30분 Mnet 단.독.방.송",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 31,
+    "publishedAt" : "2019-09-18T11:04:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "N_Ev4429Bhk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/N_Ev4429Bhk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/N_Ev4429Bhk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/N_Ev4429Bhk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/N_Ev4429Bhk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/N_Ev4429Bhk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Idol School [아이컨택캠] 너만보여l 조유리 - ♬예쁘다 @학업성취도평가(댄스 中) 170824 EP.6"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CyNUg1jZDow",
+    "videoPublishedAt" : "2019-04-27T18:14:14.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/ROGMaB86UvJCU4QmU31tzxYoDNw\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS45RjNFMDhGQ0Q2RkFCQTc1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "IZONE Yabuki Nako solo singing and playing guitar",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 32,
+    "publishedAt" : "2019-09-23T01:49:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CyNUg1jZDow"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CyNUg1jZDow/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CyNUg1jZDow/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CyNUg1jZDow/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "IZONE Yabuki Nako (HKT48) Playing Guitar - Iiwake Maybe"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "632RYa7d7NM",
+    "videoPublishedAt" : "2018-08-11T07:59:05.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/1T19FlJ4B7NQxFwk_Pux6dxJ3KM\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS40QTA3NTU2RkM1QzlCMzYx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[48스페셜] 스톤뮤직 - 조유리 l 당신의 소녀에게 투표하세요\n[48スペシャル] STONE MUSIC - チョ・ユリ l 少女に投票して下さい\n\n2018년, 당신의 소녀에게 투표하라!\n국민 프로듀서님! 잘 부탁드립니다!\n\n매주 금요일 밤 11시 본/방/사/수\n\nご視聴はスカパー！、Mnet Japan、Mnet Smartでお楽しみください。\n \n프로듀스48 (PRODUCE48)\nEvery Fri. 11pm (KST)\n-\n 프로듀스48 (PRODUCE48) 최신 클립 다시보기 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 33,
+    "publishedAt" : "2019-10-04T14:34:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "632RYa7d7NM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/632RYa7d7NM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/632RYa7d7NM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/632RYa7d7NM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/632RYa7d7NM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/632RYa7d7NM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "PRODUCE48 [48스페셜] 스톤뮤직 - 조유리 l 당신의 소녀에게 투표하세요 180810 EP.9"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vJO7ZFh2-iI",
+    "videoPublishedAt" : "2019-01-01T14:58:53.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/ZC5JG7xBY9spYbI3Yh6zlrm0fpo\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5BRjJDODk5REM0NjkzMUIy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "181103 심석홀 아이즈원 팬싸인회 조유리X최예나 CUT\n\n\n악의적 가공 금지.",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 34,
+    "publishedAt" : "2019-11-18T12:51:13.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vJO7ZFh2-iI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vJO7ZFh2-iI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vJO7ZFh2-iI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/vJO7ZFh2-iI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vJO7ZFh2-iI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/vJO7ZFh2-iI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "181103 심석홀 팬싸인회 조유리X최예나 CUT"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qK-b1NmErPA",
+    "videoPublishedAt" : "2018-11-04T13:56:16.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/daxGrZUwTs71KmVXzzRkeh0JORE\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4xOTEzQzhBQzU3MDNDNjcz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "ㅇㅇ",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 35,
+    "publishedAt" : "2019-11-19T19:09:00.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qK-b1NmErPA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qK-b1NmErPA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qK-b1NmErPA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/qK-b1NmErPA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qK-b1NmErPA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qK-b1NmErPA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "181103 아이즈원 심석홀 팬사인회 예나 유리"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "JXLTsufGpxg",
+    "videoPublishedAt" : "2018-11-04T14:56:43.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/COTy4nvcCx0PsmgjOZlHGhept6I\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5GNDg1Njc1QzZERjlFRjE5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "ㅇㅇ",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 36,
+    "publishedAt" : "2019-11-19T19:10:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "JXLTsufGpxg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/JXLTsufGpxg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/JXLTsufGpxg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/JXLTsufGpxg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/JXLTsufGpxg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/JXLTsufGpxg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "181103 아이즈원 심석홀 팬사인회 유리 비밀의시간 조금"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Nc3ZPUXZssg",
+    "videoPublishedAt" : "2018-11-09T17:44:46.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/g-fSeyygzNS9v0tMlPfAxzPA4-M\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4zQzFBN0RGNzNFREFCMjBE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "1절만찍음ㅇㅇ..",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 37,
+    "publishedAt" : "2019-11-19T19:11:55.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Nc3ZPUXZssg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Nc3ZPUXZssg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Nc3ZPUXZssg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Nc3ZPUXZssg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Nc3ZPUXZssg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Nc3ZPUXZssg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "181109 아이즈원 팬사인회 라비앙로즈 유리직캠 1절"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QEJr3T0VA_8",
+    "videoPublishedAt" : "2018-11-07T12:44:04.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/HXSmeL30CnClI95vegLVJYG2sDM\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS45NkVENTkxRDdCQUFBMDY4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "181103 아이즈원 팬싸인회 KBS 미디어센터 \"라비앙로즈 (La Vie en Rose)\" 4K\nIZ*ONE fansign event La Vie en Rose",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 38,
+    "publishedAt" : "2019-11-25T20:04:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QEJr3T0VA_8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QEJr3T0VA_8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QEJr3T0VA_8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/QEJr3T0VA_8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QEJr3T0VA_8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/QEJr3T0VA_8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "181103 아이즈원 팬싸인회 KBS 미디어센터 \"라비앙로즈 (La Vie en Rose)\" 4K"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ziWjxmqY2Ns",
+    "videoPublishedAt" : "2020-02-11T01:48:27.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/49524k4ftGj9oKwEaXmUIJqaBM8\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5DNkMwRUI2MkI4QkI4NDFG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "제 33회 골든디스크어워즈\nIZ*ONE ′행복′♪ \n／ Stray Kids ′뱅뱅뱅(BANG BANG BANG)′♪",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 39,
+    "publishedAt" : "2020-02-16T16:36:44.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ziWjxmqY2Ns"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ziWjxmqY2Ns/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ziWjxmqY2Ns/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ziWjxmqY2Ns/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ziWjxmqY2Ns/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ziWjxmqY2Ns/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[제33회 골든디스크] IZ*ONE ′행복′♪ ／ Stray Kids ′뱅뱅뱅(BANG BANG BANG)′♪"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "v5tD9ULt5vI",
+    "videoPublishedAt" : "2020-02-17T12:16:07.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/t3_u8FjhNIyEskvtxLgKNtnHvlU\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5DRUQwODMxQzUyRTlGRkY3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[COMEBACK IZ*ONE BLOOM*IZ] IZ*ONE - SPACESHIP \n[컴백 아이즈원 블룸아이즈] 아이즈원 - 스페이스쉽\n\n#IZONE #SPACESHIP\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 40,
+    "publishedAt" : "2020-02-19T07:01:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "v5tD9ULt5vI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/v5tD9ULt5vI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/v5tD9ULt5vI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/v5tD9ULt5vI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/v5tD9ULt5vI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/v5tD9ULt5vI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[최초공개] 아이즈원(IZ*ONE) - SPACESHIP | COMEBACK IZ*ONE BLOOM*IZ"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "nDk2u21wBWE",
+    "videoPublishedAt" : "2020-02-18T05:01:22.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/4DZRC_MhttuJLcCNi5fgbhlCGWk\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS41MzY4MzcwOUFFRUU3QzEx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "[MPD직캠] 아이즈원 - 소큐리어스\n[MPD FanCam] IZ*ONE - SO CURIOUS | @COMEBACK IZ*ONE BLOOM*IZ_2020.2.17\n\n#MPD직캠 #MPDFanCam\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 41,
+    "publishedAt" : "2020-02-19T07:35:44.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "nDk2u21wBWE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/nDk2u21wBWE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/nDk2u21wBWE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/nDk2u21wBWE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/nDk2u21wBWE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/nDk2u21wBWE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[MPD직캠] 아이즈원 직캠 4K ‘SO CURIOUS’ (IZ*ONE FanCam) | @COMEBACK IZ*ONE BLOOM*IZ"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "W_ccKJGW6tM",
+    "videoPublishedAt" : "2018-08-05T05:38:05.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/09577I3yb7EOuBzYNy7orEoWUsc\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4yQjZFRkExQjFGODk3RUFD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 42,
+    "publishedAt" : "2020-04-07T16:01:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "W_ccKJGW6tM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/W_ccKJGW6tM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/W_ccKJGW6tM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/W_ccKJGW6tM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/W_ccKJGW6tM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/W_ccKJGW6tM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "180805 PRODUCE48 이시안,장규리,조유리 경연출근 4k 직캠Fancam"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "sBlN1zvVDtA",
+    "videoPublishedAt" : "2020-04-08T07:00:16.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/BKA8Nj5TGqiCRGghsP0hxfxQaZI\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS4yQUJFNUVCMzVDNjcxRTlF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "IZ*ONE x DAZED KOREA\n\n아이즈원 & 데이즈드 댄스 챌린지 끝판왕은 누구???\n지금 바로 아래 링크로 접속해 투표해주세요!\nhttps://vt.tiktok.com/MU8Bb7/\n\n“Eyes on me 하나가 되는 순간 모두가 주목해”\n아이즈원 & 데이즈드와 함께하는 신나는 댄스 챌린지!\n\n데이즈드의 창간 12주년을 맞아 12명의 소녀들이 선보이는 댄스 챌린지 #12Challenge 를 지금 바로 시작해보세요! \n\n**챌린지 참여 방법\n틱톡에서 ‘DAZED KOREA’계정으로 들어와 챌린지 영상을 확인해주세요!\n그리고 신나는 음악에 맞춰 아이즈원 멤버들이 선보이는 춤을 춰 주세요.\n친한 친구든 사랑하는 연인이든 누구라도 함께! 함께 추면 더욱 즐거운 댄스 챌린지! 인원수와 상관없이 누구나 참여 가능!\n(챌린지 음원은 챌린지 영상 우측 하단에 LP판 모양의 버튼을 클릭 후 이용 가능합니다.)\n\n#12Challenge 해시태그와 함께 틱톡에 ‘전체 공개’로 영상을 업로드하면 참여 완료!\n틱톡은 물론 다른 SNS 공유 시 당첨 확률은 더욱 높아지니 잊지 말아야겠죠?\n\n**챌린지 기간 및 리워드\n#12Challenge 를 가장 멋있게 소화해주신 12팀에게 아이즈원 멤버들의 사인이 담긴 첫 정규 앨범 ‘BLOOM*IZ’와 아이즈원의 화보와 인터뷰가 담긴 데이즈드 5월호를 드립니다!\n\n-챌린지 기간 : 2020. 04. 06 (월) 4PM ~ 2020. 04. 19(일) 11PM (KST)\n-당첨자 발표 : 2020. 04. 23 (목) - 개별 연락 예정\n\n*챌린지 기간 전후로 영상을 업로드 하신 팀은 참여기간 내 한번 더 업로드 하셔야 참여가 가능합니다.\n\n#DAZEDKOREA #IZONE #데이즈드 #아이즈원 #12Challenge #최예나 #조유리 #CHOIYENA #JOYURI",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 43,
+    "publishedAt" : "2020-04-08T07:20:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "sBlN1zvVDtA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/sBlN1zvVDtA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/sBlN1zvVDtA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/sBlN1zvVDtA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/sBlN1zvVDtA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "DAZED KOREA : IZ*ONE x DAZED KOREA"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "6JOMUBY3KHE",
+    "videoPublishedAt" : "2019-06-09T04:11:04.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/12GRoqb7vytSmaUGG5EXWshLz7o\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS40QzRDOEU0QUYwNUIxN0M1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "* Do not edit, Do not re-upload",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 44,
+    "publishedAt" : "2020-05-09T22:03:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6JOMUBY3KHE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6JOMUBY3KHE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6JOMUBY3KHE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/6JOMUBY3KHE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6JOMUBY3KHE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/6JOMUBY3KHE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[4K] 190608 EYES ON ME in Seoul 아이즈원 AYAYAYA 직캠 fancam"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NcSQJrIOyKo",
+    "videoPublishedAt" : "2018-05-15T02:58:22.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/1sa4Sxjh8Jsi5xq95blF4IiF3DE\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS41RTNBREYwMkI5QzU3RkY2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "스톤뮤직ㅣ조유리ㅣ국.프님들을 위한 매력 처방전 @자기소개_1분 PR\n＞에릭남 지원사격＜ \n\nMnet 한일합작 글로벌 아이돌 프로젝트 프로듀스48\n\n2018년, 당신의 소녀에게 투표하세요!\n국민 프로듀서님! 잘 부탁드립니다!\n\n2018년 6월 15일 (금) 첫/방/송\n\n------------------------------------ \n프로듀스48 (PRODUCE48)\n2018.06.15 Coming Soon \n-------------------------------------\n------------------------------------------------------------------\n ▶[Mnet] 구독 http://www.youtube.com/channel/UCepUWUpH45hRTi-QePdq1Bg?sub_confirmation=1\n ▶[프로듀스 48] 지금 뜨는 동영상 : http://www.tving.com/smr/vod/player/P/C01_B120188419?from=youtube\n ▶[Mnet] 라이브 : http://www.tving.com/live/player/C00579\n------------------------------------------------------------------\n #프로듀스#프로듀스101#프로듀스48#프로듀스101시즌2#강다니엘#워너원#아이오아이#WannaOne#I.O.I#서바이벌#아이돌#PRODUCE#PRODUCE101#PRODUCE48#엠넷#Mnet#연습생#AKB#AKB48",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 45,
+    "publishedAt" : "2020-05-19T13:28:09.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NcSQJrIOyKo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NcSQJrIOyKo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NcSQJrIOyKo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/NcSQJrIOyKo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NcSQJrIOyKo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NcSQJrIOyKo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[ENG sub] PRODUCE48 스톤뮤직ㅣ조유리ㅣ국.프님들을 위한 매력 처방전 @자기소개_1분 PR 180615 EP.0"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "-7quaBAMCfY",
+    "videoPublishedAt" : "2020-05-24T09:33:49.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/givhbBM785dv9uTYRcn9AWKlNIM\"",
+  "id" : "UExjN2ZpWXZmOGdkQ241eWNYUmFjTVJJV3NUWk1JS3MzcS5ENjI1QUI0MDI5NEQzODFE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "★★★More “King of Masked Singer” clips are available★★★\n\niMBC   \nhttp://www.imbc.com/broad/tv/ent/sundaynight/common_page/vod/\n\nWAVVE\nhttps://www.wavve.com/player/vod?programid=M_1000790100000100000&page=1",
+    "playlistId" : "PLc7fiYvf8gdCn5ycXRacMRIWsTZMIKs3q",
+    "position" : 46,
+    "publishedAt" : "2020-05-24T18:46:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "-7quaBAMCfY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/-7quaBAMCfY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/-7quaBAMCfY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/-7quaBAMCfY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/-7quaBAMCfY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/-7quaBAMCfY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[복면가왕]  '아내의 유혹' 2라운드 무대 -장마"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

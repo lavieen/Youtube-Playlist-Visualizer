@@ -1,0 +1,1991 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "NEezv1N5rCY",
+    "videoPublishedAt" : "2019-01-06T04:00:04.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/WnXTSJ2AdEN88Si3uaCxlUOWbo8\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy45NzUwQkI1M0UxNThBMkU0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : YOONA (윤아) (Feat. 10cm) - 덕수궁 돌담길의 봄 (Deoksugung Stonewall Walkway)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 0,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NEezv1N5rCY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NEezv1N5rCY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NEezv1N5rCY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/NEezv1N5rCY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NEezv1N5rCY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NEezv1N5rCY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | Deoksugung Stonewall Walkway"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "_CMANTaeamk",
+    "videoPublishedAt" : "2018-07-19T18:40:15.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/1L-ZY7zyInnTh8XcrN2iIQgIY8k\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Đào ba bộ 🌸🌸🌸",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 1,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "_CMANTaeamk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/_CMANTaeamk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/_CMANTaeamk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/_CMANTaeamk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/_CMANTaeamk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/_CMANTaeamk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Miyawaki Sakura (Beautiful Girl)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "uH0HEiwu5Gg",
+    "videoPublishedAt" : "2018-09-08T15:08:42.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/zI3FSetRJoHb6bgoX6nQgL4a_oQ\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Choi Yena (최예나) Jo Yuri (조유리)\nIZ*ONE PRODUCE48\n\nBest Friend - Cover by Mochipeach\n\nTranslated Thai by: pimjai\nTranslated English by: s.o.l솔",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 2,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "uH0HEiwu5Gg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/uH0HEiwu5Gg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/uH0HEiwu5Gg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/uH0HEiwu5Gg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/uH0HEiwu5Gg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/uH0HEiwu5Gg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[FMV] Choi Yena (최예나) Jo Yuri (조유리) Best Friend - Cover by Mochipeach (EngSub/ThaiSub)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "X3Cgm8DdUCc",
+    "videoPublishedAt" : "2018-10-12T11:38:12.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/5OiVb7NoIFcPGi0hhCT950I3iYs\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Full video :\nhttps://www.youtube.com/watch?v=Nx8_9xwz_eQ\nhttps://www.youtube.com/watch?v=ovTG-eSPZ5c\nhttps://www.youtube.com/watch?v=773G9T-iJ1U\nhttps://www.youtube.com/watch?v=Bvu73u3y6Bg",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 3,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "X3Cgm8DdUCc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/X3Cgm8DdUCc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/X3Cgm8DdUCc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/X3Cgm8DdUCc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/X3Cgm8DdUCc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/X3Cgm8DdUCc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[FMV IZONE] Yena x Yuri - Pit A Pat"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Q6bkbvJDqKU",
+    "videoPublishedAt" : "2018-10-21T03:00:00.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/zuwfLPZdxJvmnvp_mIB2yVPk5_I\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : Eric Nam(에릭남) , CHEEZE(치즈) - Perhaps Love (사랑인가요)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 4,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Q6bkbvJDqKU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Q6bkbvJDqKU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Q6bkbvJDqKU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Q6bkbvJDqKU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Q6bkbvJDqKU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | PERHAPS LOVE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "K5IStM2PtUc",
+    "videoPublishedAt" : "2019-02-14T14:53:44.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/f2lXWPiX_aNTnmbytJvzrfT1_Z0\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 7,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "K5IStM2PtUc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/K5IStM2PtUc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/K5IStM2PtUc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/K5IStM2PtUc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/K5IStM2PtUc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/K5IStM2PtUc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[IZ*ONE Jo Yuri][FMV] Fuwa Fuwa"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "rs0YMAepcnA",
+    "videoPublishedAt" : "2018-12-14T04:44:22.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Z-J-uGr0BFQMPTo4uoKY21LolXo\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "cre: https://weibo.com/6539911148/H5QC0wmRD",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 9,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "rs0YMAepcnA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/rs0YMAepcnA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/rs0YMAepcnA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/rs0YMAepcnA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/rs0YMAepcnA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/rs0YMAepcnA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[IZ*ONE Choi Yena x Jo Yuri (YulYen)][FMV] Grumpy"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5gEGDbcwUsA",
+    "videoPublishedAt" : "2018-11-18T17:31:39.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/a0T7j3CJVb7ozRAwGLU320CqtWg\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 10,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5gEGDbcwUsA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5gEGDbcwUsA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5gEGDbcwUsA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/5gEGDbcwUsA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5gEGDbcwUsA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/5gEGDbcwUsA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "SakuNako HKT48/IZ*ONE MIYAWAKI SAKURA & YABUKI NAKO"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "hbdJzDyPUrA",
+    "videoPublishedAt" : "2019-05-04T08:10:38.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/jNfStYy2aRiEjUuQu6cD4nieCRk\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "All clips used in this video goes to the rightful owner, if ever you want me to remove your video, please get in touch with me through the comment section below.\n\nYou can suggest any twice or iz*one ships you want for me to create a vid edit, just comment below!",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 11,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hbdJzDyPUrA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hbdJzDyPUrA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hbdJzDyPUrA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/hbdJzDyPUrA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hbdJzDyPUrA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/hbdJzDyPUrA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kang Hyewon (강해원) x Jang Wonyoung (장원영) FMV (Euphoria)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "cBTQmdrexp4",
+    "videoPublishedAt" : "2019-06-22T15:00:44.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/j2g2taM6w6w2D7OHg6TRJ3T7RHg\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Romaji lyrics [FMV]\n\nSong🎵 : Human Love \nSinger🎤 : Jo yuri and Ahn yujin (IZ*ONE)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 12,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "cBTQmdrexp4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/cBTQmdrexp4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/cBTQmdrexp4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/cBTQmdrexp4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/cBTQmdrexp4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/cBTQmdrexp4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Jo yuri ft Ahn yujin - Human Love [Romaji/FMV]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WY8cF7vgMP4",
+    "videoPublishedAt" : "2018-11-18T09:02:45.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/5h2xWmqeoU_oQSue4H1lLGMjrWY\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Subscribe To The Channel At https://www.youtube.com/channel/UCT0dLERSOzbSI02qlcmV7YQ?sub_confirmation=1\n\nSONG : https://m.youtube.com/watch?v=Wpxil64fPGM\n\nI like the time they are together, it makes me happy. I think they have a lot of chemistry. I love them so much\n\nHow do you like the couple in IZ*ONE comment👇\n\nThanks videos from various channels 🙏\n\nOur video will make you happy 😋\n \nThank you for watching 😚\n\nLIKE & SUBSCRIBE✌\n\nCOMMENTS 👇\n\n\n#Yena\n#Yuri\n#YenYul\n#IZONE",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 13,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WY8cF7vgMP4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WY8cF7vgMP4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WY8cF7vgMP4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/WY8cF7vgMP4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WY8cF7vgMP4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/WY8cF7vgMP4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[FMV] - IZONE ♥ |▷YENYUL◁| [YENA  X YURI] - MORNING CALL ☏ - ASTRO"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lVuaukovD00",
+    "videoPublishedAt" : "2018-10-24T07:44:36.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/xgA2nNvsrVDfHApVGF38X96X7oQ\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Subscribe to the channel at https://www.youtube.com/channel/UCT0dLERSOzbSI02qlcmV7YQ?sub_confirmation=1\n\nmusic : https://m.youtube.com/watch?v=ftwWcNWYDf0\n\nYena & Yuri is really a couple to make a lot of heart beats when IZ * ONE debut will have a lot of this couple. Do not forget to subscribe to our channel. That will take a couple of moments.♥\n\nHow do you like the couple in IZ*ONE comment👇\n\nThanks videos from various channels 🙏\n\nOur video will make you happy 😋\n \nThank you for watching 😚\n\nLIKE & SUBSCRIBE✌\n\nCOMMENTS 👇\n\n\n#Yena\n#Yuri\n#YenYul\n#IZONE",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 14,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lVuaukovD00"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lVuaukovD00/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lVuaukovD00/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lVuaukovD00/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/lVuaukovD00/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[FMV] |YENYUL| IZ*ONE |(YENA(예나) & YURI(유리) - OPPA - 유승우(Yu SeungWoo) X 산들(SANDEUL)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "7oiIMpnUKvo",
+    "videoPublishedAt" : "2019-01-16T14:30:02.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/g8y2R3-nKCZNo7CYqLCKRC7yz0c\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy41Mzk2QTAxMTkzNDk4MDhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "(Watch in HD)\nizone is one of my ult group and kang hyewon is one of my top 2 biases. actually i want to make some fmv for sakura 'cause she is my bias;-; but this song reminds me so much of kang hyewon! \nhope u enjoyed it!\n\nNo copyright infringement intended. Video and picture credits to their rightful owners.\n\nsong: a girl like you by daniel j\nprogram: adobe premiere pro cc 2017\nfandom: KPOP ( iz*one - hyewon )\n\n\n\n\n\n\ntags;\nfmv korea kpop izone iz*one produce 48 produce48 mnet rookie kwon eunbi miyawaki sakura kang hyewon choi yena lee chaeyeon kim chaewon kim minju honda hitomi jo yuri yabuki nako ahn yujin jang wonyoung la vie en rose nekkoya",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 15,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "7oiIMpnUKvo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/7oiIMpnUKvo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/7oiIMpnUKvo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/7oiIMpnUKvo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/7oiIMpnUKvo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/7oiIMpnUKvo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "HYEWON ㅡ a girl like you「FMV」"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "YEpFentGUD4",
+    "videoPublishedAt" : "2019-01-12T21:28:30.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/XS6aauZIF2JO0RAsDfwbY35bX2A\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "งื้ออออออ นั่งตัดไปร้องไห้ไปปปปปปป\n\n--------------------------------------------------\n\n#izone #yenyul #เยนยูล #choiyena #joyuri",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 16,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "YEpFentGUD4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/YEpFentGUD4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/YEpFentGUD4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/YEpFentGUD4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/YEpFentGUD4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "#yenyul moment in #chaeyeonday @vlive 120119"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2VoiDft_Rog",
+    "videoPublishedAt" : "2019-05-16T07:12:19.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/-gebsR0rRfNkMI-5AJNgJdqPfZs\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Thanks video cr. \n\n - one& orange channel https://www.youtube.com/channel/UCq2nqvRVc8SI_3_FWv9SsLw\n\nSong : https://www.youtube.com/watch?v=b3gdCNPAt5E",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 17,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2VoiDft_Rog"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2VoiDft_Rog/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2VoiDft_Rog/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2VoiDft_Rog/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2VoiDft_Rog/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2VoiDft_Rog/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "YENYUL -  [ FMV ]  Yena x Yuri  ( IZ*ONE ) - PARADISE ( NCT 127 )"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "-iGQUoc0J5Q",
+    "videoPublishedAt" : "2019-04-30T22:41:39.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/hvlFYAxMhto3SOgbf4V0LuCZNIE\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4yMUQyQTQzMjRDNzMyQTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "All clips used in this video can be found at Iz*one's official Vlive Account: https://channels.vlive.tv/C1B7AF/video\n\nYou may suggest any iz*one or twice ships that you want for me to create a vid edit! Just comment below :)))",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 18,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "-iGQUoc0J5Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/-iGQUoc0J5Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/-iGQUoc0J5Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/-iGQUoc0J5Q/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/-iGQUoc0J5Q/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/-iGQUoc0J5Q/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kang Hyewon (강해원) x Jang Wonyoung (장원영) FMV (Shot thru the heart) Vlive Compilation II"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "86XJ6UZFIBY",
+    "videoPublishedAt" : "2019-07-10T14:02:55.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/fqE6n8T1kOzCDLIsoRdfJCHFc8Y\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy45RTgxNDRBMzUwRjQ0MDhC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "I'm so sorry for bad quality and bad editing I rushed because I am going on a trip and this is a scheduled video.... Please subscribe, like and comment down below for any questions or whatever is on you're mind... Thank you I hope you enjoy my videos",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 19,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "86XJ6UZFIBY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/86XJ6UZFIBY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/86XJ6UZFIBY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/86XJ6UZFIBY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/86XJ6UZFIBY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/86XJ6UZFIBY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kwon Eunbi's Journey to IZ*ONE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xmGOFToNg5I",
+    "videoPublishedAt" : "2019-06-23T01:37:43.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/JXJy2QnKVA0dEBx6LWMhhJAz_xE\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5ENDU4Q0M4RDExNzM1Mjcy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "#IZONE #아이즈원 #yenyul #yulyen #최예나 #조유리\nSorry if I made some errors 😥\n\nFollow my accounts\ntwt: @jitaejyty\nig: @yenyul.yulyen\nother yt: Jitae JyTy \n\nIf you're kind you can support this broke student here 😅\n🔗 https://www.patreon.com/jitae_tyjy\n\nWatch my other IZ*ONE videos ⬇️⬇️⬇️\n\n🔸YENYUL/YULYEN \"Just only dating not marrying\" \n➡️ https://youtu.be/n4r1txigVRA\n\n🔸YENYUL/YULYEN \"I want you, I need you, I love you ~\" \n➡️ https://youtu.be/0Hls3n5mrZs\n\n🔸Every Minjuga ttoo/Minju again \n➡️ https://youtu.be/6SzDiNVTK30\n\n🔸IZ*ONE members reaction to YenYul/YulYen\n➡️ https://youtu.be/mjLq5iq07Ig\n\n🔸IZ*ONE BEING GAYZ*ONE\n➡️ https://youtu.be/NH3qeiubfcM\n\n🔸All about Sakura's harem\n➡️ https://youtu.be/xCjWG1rt-S0\n\n🔸YenYul and their captain ship Yujin \n➡️ https://youtu.be/mCfpxcxPLHo\n\n🔸IZ*ONE BEING NOISY*ONE\n➡️ https://youtu.be/nlBETVNWFCI\n\n🔸YenYul going strong as ever\n➡️ https://youtu.be/FiQDEuWlaP0\n\n🔸no one ask but here's \"this yenyul moment with different bgm\" \n➡️ https://youtu.be/xmGOFToNg5I\n\n🔸SNSD X IZ*ONE Non-existent Moments \n➡️ https://youtu.be/p6bkazeJxO8\n\n🔸Something in IZONE that never change | part 1\n➡️ https://youtu.be/m0IzoMx9nCU\n\n🔸when you can't understand iz*one \n➡️ https://youtu.be/GA04JMa9RZc\n\n🔸Something in IZ*ONE's that never change | part 2 \n➡️ https://youtu.be/FBA1ejhOznk\n\n🔸when you can't understand iz*one | part 2\n➡️ https://youtu.be/-XsWUCATgno\n\n🔸when you can't understand iz*one | part 3\n➡️ https://youtu.be/6T49XsdsbYU\n\n🔸Something in IZONE that never change | part 3\n➡️ https://youtu.be/-SyIPoz4LJY\n\n🔸you can't spell synchronize without izone \n➡️ https://youtu.be/UlXgw-pvZXY\n\n🔸[IZ*C-1] IZ*ONE's best mom Kwon Eunbi 🐇\n➡️ https://youtu.be/4GnBPuhbbT4\n\n🔸[IZ*C-2] IZONE's most playgirl Miyawaki Sakura 🌸\n➡️ https://youtu.be/lJFFilhk5_s\n\n🔸[IZ*C-3] IZONE's clingy hamster Kang Hyewon 🐹\n➡️ https://youtu.be/KRPM_UV-BTQ\n\n🔸[IZ*C-4] IZONE's human duck Choi Yena 🐥\n➡️ https://youtu.be/EI0FWZkG54E\n\n🔸[IZ*C-5] IZONE's happy pill Lee Chaeyeon 🕊️\n➡️ https://youtu.be/xTKIWtKdTd0\n\n🔸[IZ*C-6] IZONE's main cutie ssamu Kim Chaewon 🧚‍♂️\n➡️ https://youtu.be/qh0NsKyk0Ck\n\n🔸[IZ*C-7] IZONE's shy minguri Kim Minju 🦊\n➡️ https://youtu.be/fP1egmBU_G8\n\n🔸[IZ*C-8] IZONE's mochi cheeks Honda Hitomi 🍑\n➡️ https://youtu.be/A1IZO1oVLgI\n\n🔸[IZ*C-9] IZONE's smallest human Yabuki Nako 🐧\n➡️ https://youtu.be/2zAs9Yi_WL0\n\n🔸[IZ*C-10] IZONE's sweetest baby Jo Yuri 🐕\n➡️ https://youtu.be/6P6HbXW2s0s\n\n🔸[IZ*C-11] IZONE's big puppy Ahn Yujin 🐶\n➡️ https://youtu.be/9DDyJO0nslk\n\n🔸[IZ*C-12] IZONE's actual baby Jang Wonyoung 👶🏻\n➡️ https://youtu.be/-TQWUDYlyaI\n\n🔸IZ*ONE JOURNEY 1 [1ZONEYEARANNIVERSARY] \n➡️ https://youtu.be/IKDgAZBanE8\n\n🔸YenYul/YulYen Married Life \n➡️ https://youtu.be/XzeI5sjhEkk\n\n🔸IZ*ONE light up my sky \n➡️ https://youtu.be/qyqIGoURplk\n\nThese videos are not mine credit to the rightful owners.\n\n#IZONE #아이즈원 #pd48 #jinjoo #yenyul #chaekkura #2kim #annyeongz #hyeyul #hyekura #yulyen #최예나 #조유리",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 20,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xmGOFToNg5I"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xmGOFToNg5I/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xmGOFToNg5I/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/xmGOFToNg5I/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xmGOFToNg5I/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/xmGOFToNg5I/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "no one ask but here's \"this yenyul moment with different bgm\""
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "B0625EoSNAo",
+    "videoPublishedAt" : "2019-05-05T08:16:24.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/pNMXYvy9qwXpBYEJe_Q_a0ktMh8\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4yMDhBMkNBNjRDMjQxQTg1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Any clips used in this video goes to the rightful owner, if ever you want me to remove your video, please get in touch with me through the comment section.\n\nYou may suggest any iz*one or twice ships you want for me to make a vid edit, just comment below :)))",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 21,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "B0625EoSNAo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/B0625EoSNAo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/B0625EoSNAo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/B0625EoSNAo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/B0625EoSNAo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/B0625EoSNAo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Iz*one Kang Hyewon and The Selca Phone ft. Annyeongz and Kkura"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "D0smbe66wKQ",
+    "videoPublishedAt" : "2018-10-13T12:35:41.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/lUFM5G18D2l4BhG9agzEXSDsgdw\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5GM0Q3M0MzMzY5NTJFNTdE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : Taru (타루) - You In Front of Me (내 눈앞에 너)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 22,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "D0smbe66wKQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/D0smbe66wKQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/D0smbe66wKQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/D0smbe66wKQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/D0smbe66wKQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | YOU IN FRONT OF ME"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "7FD5epZ1-00",
+    "videoPublishedAt" : "2018-11-10T13:04:09.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/lQB5IavVUNhZ7P3H9TwwXs_rFBE\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4zRjM0MkVCRTg0MkYyQTM0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : Lee Hae In (이해인) - Permeate (스르륵)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 23,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "7FD5epZ1-00"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/7FD5epZ1-00/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/7FD5epZ1-00/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/7FD5epZ1-00/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/7FD5epZ1-00/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | PERMEATE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "17pjEpgJp5c",
+    "videoPublishedAt" : "2018-10-10T06:21:09.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/mzoRF6G3xPOzg8pRFf96UqK79Xg\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5DNzE1RjZEMUZCMjA0RDBB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : 여자친구(GFRIEND) - WANNA BE",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 24,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "17pjEpgJp5c"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/17pjEpgJp5c/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/17pjEpgJp5c/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/17pjEpgJp5c/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/17pjEpgJp5c/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/17pjEpgJp5c/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | WANNA BE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "GWO9fdkGElQ",
+    "videoPublishedAt" : "2019-03-02T01:00:01.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/sDz1SWCJkYbe4GAu11jfNXR4rvM\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy43MTI1NDIwOTMwQjIxMzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : 로꼬, 펀치 (Loco, Punch) - Say Yes",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 25,
+    "publishedAt" : "2019-09-18T11:05:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "GWO9fdkGElQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/GWO9fdkGElQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/GWO9fdkGElQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/GWO9fdkGElQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/GWO9fdkGElQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/GWO9fdkGElQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | SAY YES"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CdfYG1E5-Yk",
+    "videoPublishedAt" : "2019-06-06T07:57:14.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/rdk0Pq9Y7pKQ7wKFycGinMe3tvY\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Caring leader kwon eunbi \nHappy virus kwon eunbi \nEveryone loves kwon eunbi \nEunbi big heart \nEunbi loving her kids",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 26,
+    "publishedAt" : "2019-09-20T07:28:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CdfYG1E5-Yk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CdfYG1E5-Yk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CdfYG1E5-Yk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CdfYG1E5-Yk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CdfYG1E5-Yk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE caring leader Kwon Eunbi “Pretty on the inside”"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "B3qJu7mdvng",
+    "videoPublishedAt" : "2019-05-13T14:43:59.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/z_huNdcWc-J5mHGMdDvMJRHX2yA\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4yQUE2Q0JEMTk4NTM3RTZC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 27,
+    "publishedAt" : "2019-09-29T11:46:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "B3qJu7mdvng"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/B3qJu7mdvng/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/B3qJu7mdvng/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/B3qJu7mdvng/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/B3qJu7mdvng/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Crush - Jo Yuri (IZ*ONE) [FMV]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yADf9sSEsGM",
+    "videoPublishedAt" : "2019-05-02T04:09:46.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/yiljAletzMSava-VgK8YBCKQsGs\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5DMkU4NTY1QUFGQTYwMDE3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "for my baby yuri ♡♡♡\nI have exams next week so this is the video was for the next week but now it's posted because i don't have time next week (?)\nJust enjoy it\n\n\n\nprogram: sony vegas 13\nfandom: wiz*one [IZ*ONE]\nsong: Treasure - Bruno Mars",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 28,
+    "publishedAt" : "2019-09-29T11:48:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yADf9sSEsGM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yADf9sSEsGM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yADf9sSEsGM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/yADf9sSEsGM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yADf9sSEsGM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/yADf9sSEsGM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "yuri ❀ treasure ⌜fmv⌟"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KsX481hiOI4",
+    "videoPublishedAt" : "2019-01-09T05:16:06.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/LKKLFXfxDZ7cJTI5L7L_Mn7_6iM\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy44Mjc5REFBRUE2MTdFRDU0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "쌈대장\n·\n·\n·\n·\n·\n＠원본\n시작) https://www.vlive.tv/video/107178\n쌈아치의시작) https://www.youtube.com/watch?v=7n51U2Uu6P0\n갑툭쌈무 콤보) 아이즈원 츄 1화\n갑툭쌈무3) https://www.youtube.com/watch?v=A6EieNny-iY\n잡았다요놈1) https://www.vlive.tv/video/92085\n잡았다요놈2) https://www.vlive.tv/video/90003\n더쌈) https://www.vlive.tv/video/94828\n서열관리) https://www.youtube.com/watch?v=wvRykVYRSFQ\n은근슬쌈) https://www.vlive.tv/video/97842\n네임펜통제) https://www.youtube.com/watch?v=PgpBBzUYiqA\n팔통제1) https://www.vlive.tv/video/88099\n팔통제2) https://www.youtube.com/watch?v=8MjnPqCGotE\n시그니처1 2) 아이즈원 츄 3화\n시그니처3) https://www.vlive.tv/video/95952\n시그니처4) https://www.youtube.com/watch?v=ZarYt2Vc5PI\n샌드백) https://tv.naver.com/v/4273941\n보복) https://www.vlive.tv/video/93717\n오리학대) https://www.youtube.com/watch?v=GZ2_vwjIuk8\n머슬쌈123) https://www.vlive.tv/video/95952\n개틀링) https://www.vlive.tv/video/90189\n이 악뭄) https://www.youtube.com/watch?v=KJaYHQa_koA\n두개골) https://www.vlive.tv/video/107178\n패기) 아이즈원 츄 1화\n\n#아이즈원#김채원",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 29,
+    "publishedAt" : "2019-09-29T20:46:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KsX481hiOI4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KsX481hiOI4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KsX481hiOI4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/KsX481hiOI4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KsX481hiOI4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/KsX481hiOI4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "쌈아치"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vGX28JHda6k",
+    "videoPublishedAt" : "2019-01-04T17:47:15.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/jtr5pTphqwGmVc7AXgMYes-N04E\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy43NDhFRTgwOTRERTU4Rjg3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "This is by far my fav YulTomi moments!!\n\n*sorry for the crappy edits",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 30,
+    "publishedAt" : "2019-11-06T14:51:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vGX28JHda6k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vGX28JHda6k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vGX28JHda6k/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/vGX28JHda6k/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vGX28JHda6k/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/vGX28JHda6k/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "YulTomi (Yuri + Hitomi) Moments in 190104 VLive #Yuri #HondaHitomi #本田仁美  #유리 #혼다히토미 #IZONE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qyqIGoURplk",
+    "videoPublishedAt" : "2019-11-09T00:27:15.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/L96xL_GSH08zx2wHQqKGCKUZNnY\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy41QUZGQTY5OTE4QTREQUU4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "We can go through this sht 🙏 IZ*ONE fighting WIZ*ONE fighting! #SunflowerForIZONE \n\nFollow my accounts\ntwt: @jitaejyty\nig: @yenyul.yulyen\nother yt: Jitae JyTy \n\nIf you're kind you can support this broke student here 😅\n🔗 https://www.patreon.com/jitae_tyjy\n\nWatch my other IZ*ONE videos ⬇️⬇️⬇️\n\n🔸YENYUL/YULYEN \"Just only dating not marrying\" \n➡️ https://youtu.be/n4r1txigVRA\n\n🔸YENYUL/YULYEN \"I want you, I need you, I love you ~\" \n➡️ https://youtu.be/0Hls3n5mrZs\n\n🔸Every Minjuga ttoo/Minju again \n➡️ https://youtu.be/6SzDiNVTK30\n\n🔸IZ*ONE members reaction to YenYul/YulYen\n➡️ https://youtu.be/mjLq5iq07Ig\n\n🔸IZ*ONE BEING GAYZ*ONE\n➡️ https://youtu.be/NH3qeiubfcM\n\n🔸All about Sakura's harem\n➡️ https://youtu.be/xCjWG1rt-S0\n\n🔸YenYul and their captain ship Yujin \n➡️ https://youtu.be/mCfpxcxPLHo\n\n🔸IZ*ONE BEING NOISY*ONE\n➡️ https://youtu.be/nlBETVNWFCI\n\n🔸YenYul going strong as ever\n➡️ https://youtu.be/FiQDEuWlaP0\n\n🔸no one ask but here's \"this yenyul moment with different bgm\" \n➡️ https://youtu.be/xmGOFToNg5I\n\n🔸SNSD X IZ*ONE Non-existent Moments \n➡️ https://youtu.be/p6bkazeJxO8\n\n🔸Something in IZONE that never change | part 1\n➡️ https://youtu.be/m0IzoMx9nCU\n\n🔸when you can't understand iz*one \n➡️ https://youtu.be/GA04JMa9RZc\n\n🔸Something in IZ*ONE's that never change | part 2 \n➡️ https://youtu.be/FBA1ejhOznk\n\n🔸when you can't understand iz*one | part 2\n➡️ https://youtu.be/-XsWUCATgno\n\n🔸when you can't understand iz*one | part 3\n➡️ https://youtu.be/6T49XsdsbYU\n\n🔸Something in IZONE that never change | part 3\n➡️ https://youtu.be/-SyIPoz4LJY\n\n🔸you can't spell synchronize without izone \n➡️ https://youtu.be/UlXgw-pvZXY\n\n🔸[IZ*C-1] IZ*ONE's best mom Kwon Eunbi 🐇\n➡️ https://youtu.be/4GnBPuhbbT4\n\n🔸[IZ*C-2] IZONE's most playgirl Miyawaki Sakura 🌸\n➡️ https://youtu.be/lJFFilhk5_s\n\n🔸[IZ*C-3] IZONE's clingy hamster Kang Hyewon 🐹\n➡️ https://youtu.be/KRPM_UV-BTQ\n\n🔸[IZ*C-4] IZONE's human duck Choi Yena 🐥\n➡️ https://youtu.be/EI0FWZkG54E\n\n🔸[IZ*C-5] IZONE's happy pill Lee Chaeyeon 🕊️\n➡️ https://youtu.be/xTKIWtKdTd0\n\n🔸[IZ*C-6] IZONE's main cutie ssamu Kim Chaewon 🧚‍♂️\n➡️ https://youtu.be/qh0NsKyk0Ck\n\n🔸[IZ*C-7] IZONE's shy minguri Kim Minju 🦊\n➡️ https://youtu.be/fP1egmBU_G8\n\n🔸[IZ*C-8] IZONE's mochi cheeks Honda Hitomi 🍑\n➡️ https://youtu.be/A1IZO1oVLgI\n\n🔸[IZ*C-9] IZONE's smallest human Yabuki Nako 🐧\n➡️ https://youtu.be/2zAs9Yi_WL0\n\n🔸[IZ*C-10] IZONE's sweetest baby Jo Yuri 🐕\n➡️ https://youtu.be/6P6HbXW2s0s\n\n🔸[IZ*C-11] IZONE's big puppy Ahn Yujin 🐶\n➡️ https://youtu.be/9DDyJO0nslk\n\n🔸[IZ*C-12] IZONE's actual baby Jang Wonyoung 👶🏻\n➡️ https://youtu.be/-TQWUDYlyaI\n\n🔸IZ*ONE JOURNEY 1 [1ZONEYEARANNIVERSARY] \n➡️ https://youtu.be/IKDgAZBanE8\n\n🔸YenYul/YulYen Married Life \n➡️ https://youtu.be/XzeI5sjhEkk\n\n🔸IZ*ONE light up my sky \n➡️ https://youtu.be/qyqIGoURplk\n\n🔹I do not own any videos and clips. Credits to the rightful owners.🔹\n\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"\n\n#IZONE #아이즈원 #AlwaysWithIZONE #WIZONELOVEIZONE #YenYul #YulYen #EUNBI #SAKURA #HYEWON #YENA #CHAEYEON #CHAEWON #MINJU #HITOMI #NAKO #YURI #YUJIN #WONYOUNG #pd48 #jinjoo #yenyul #chaekkura #2kim #annyeongz #hyeyul #hyekura #yulyen #최예나 #조유리",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 31,
+    "publishedAt" : "2019-11-10T13:36:59.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qyqIGoURplk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qyqIGoURplk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qyqIGoURplk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qyqIGoURplk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qyqIGoURplk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE light up my sky"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "7SDUsl1KXHQ",
+    "videoPublishedAt" : "2019-10-12T22:21:16.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/2GqIgWXlVTvkY4gQOXvlksOl7QM\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4zRDBDOEZDOUM0MDY5NEEz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "IZONE members live in 2 separated rooms.\nEach room consists of 6 members:\n- Room #1: Eunbi, Hyewon, Yena, Chaewon, Minju, Yujin\n- Room #2: Sakura, Chaeyeon, Hitomi, Nako, Yuri, Wonyoung\n\nI tried to compile picture that members use same stuffs together. But it already took me more than 1 week to capture only their tops. \nBasically, all members of Room #1 share all of their stuffs, including tshirts, sweaters, jackets, pants, caps, and bags. I have some of pictures that they were using same pants, caps and bags too, but putting those into this video maybe will take me 1 year to finish it. \n-__-\n\nLook how close they are! They literally share everything! :))))\n\nCredits to the rights owners.\nI am just an editor :)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 32,
+    "publishedAt" : "2019-11-15T13:00:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "7SDUsl1KXHQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/7SDUsl1KXHQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/7SDUsl1KXHQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/7SDUsl1KXHQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/7SDUsl1KXHQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/7SDUsl1KXHQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE (아이즈원) | IZONE - What's Yours is Mine Too"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "q6XxyJMCyVU",
+    "videoPublishedAt" : "2018-12-02T00:00:04.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/NBZGSxM7WejC5hBmjpYaZqD7Xb8\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5CMEQ2Mjk5NTc3NDZFRUNB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "IZ*ONE - Not Too Much Information (TMI) about IZONE Yujin\n\nHi there! \nSo Ahn Yujin / An Yujin is currently climbing my bias list.\nThis big puppy has special charm. Sometimes, Yujin can lead and handle situation very well like an adult, but sometimes, she also literally acts like a kid around her age.\n\nDespite of her age, Yujin is also very clever! She gave many \"on point\" statements like \"Being a center can make you but also can destroy you\" or \"Hitomi's cheeks are very charming. It can be her positive point.\" Besides, she's also the one who makes trend inside IZONE:\n- \"Who is giving eunbi hard time?\" by Yena\n- \"Jjaeyeon\" by Sakura\n- \"Jibhab\" by Eunbi\n- etc\n\nLove Yujin More, WIZ*ONE!!! :)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 33,
+    "publishedAt" : "2019-11-15T13:20:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "q6XxyJMCyVU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/q6XxyJMCyVU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/q6XxyJMCyVU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/q6XxyJMCyVU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/q6XxyJMCyVU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/q6XxyJMCyVU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE (아이즈원) - Not Too Much Information (TMI) about IZONE An Yujin (안유진)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bozCR-bWXEA",
+    "videoPublishedAt" : "2018-08-13T16:37:34.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/xoT2s1x_WsPkab8xep2oi9Mr0lQ\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy42MTI4Njc2QjM1RjU1MjlG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Olly Murs - That Girl",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 34,
+    "publishedAt" : "2019-11-18T17:07:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bozCR-bWXEA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bozCR-bWXEA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bozCR-bWXEA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bozCR-bWXEA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bozCR-bWXEA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bozCR-bWXEA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Nana Komatsu [MV] That Girl (Lyrics) [HD]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "f7UfUSKkwL8",
+    "videoPublishedAt" : "2018-01-28T00:35:09.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Gm_ZbuCiAZ8HNYFOPCDy_aWf5Ws\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy45RjNFMDhGQ0Q2RkFCQTc1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "♥ Thank you for watching ♥ (◠‿◠)\nClick ''show more'' for important links and info ▼\n「Photoshoot Teaser & CF」Komatsu Nana 小松菜奈\n+ Music: The Sun of Spring - July 봄의 태양 \n+ Video + Effect: Ai Neji「Thảo Neji」\n#Komatsu_Nana #小松菜奈 #Japanese_Model #Japanese_Actress\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n► Facebook: https://www.facebook.com/thaoneji\n► Google+: https://plus.google.com/u/0/100565485039793116801\n► Twitter: https://twitter.com/Ai_Neji\n► Youtube: https://www.youtube.com/channel/UCIketnQ6Z9RCf8lofQwi7oA\n\n♥♥ SUBSCRIBE FOR MORE ♥♥\n\n▬▬▬▬▬▬▬▬▬\n★ PLEASE READ:\n\nCopyright Disclaimer Under Section 107 of the\nCopyright Act 1976, allowance is made for -fair use-\nfor purposes such as criticism, comment, news\nreporting, teaching, scholarship, and research. Fair\nuse is a use permitted by copyright statute that\nmight otherwise be infringing. Non-profit,\neducational or personal use tips the balance in favor\nof fair use.\n\n-----------------\nTag: AMV, FMV, CMV, Boy love, Girl love, hint shounen ai, hint shoujo ai, anime song, sasuke x naruto, tokyo ghoul,  fate zero, japanese boy, japanese girl, j-drama, japan song, jrock, jpop, final fantasy vii mv, best anime,  shounen, shoujo, josei,...",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 35,
+    "publishedAt" : "2019-11-19T02:40:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "f7UfUSKkwL8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/f7UfUSKkwL8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/f7UfUSKkwL8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/f7UfUSKkwL8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/f7UfUSKkwL8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Komatsu Nana「FMV」Beautiful Japanese Model 小松菜奈"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "B9k9_vW50Q4",
+    "videoPublishedAt" : "2019-07-11T12:15:00.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/rDCMQxOb7jh-0dTvQO6u0PGoE8I\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy40QTA3NTU2RkM1QzlCMzYx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "화질 양해 부탁",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 36,
+    "publishedAt" : "2020-03-05T12:09:39.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "B9k9_vW50Q4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/B9k9_vW50Q4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/B9k9_vW50Q4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/B9k9_vW50Q4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/B9k9_vW50Q4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/B9k9_vW50Q4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[아이즈원/조유리] 또 뚜까맞는 쪼율"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "VRl30C0OXnA",
+    "videoPublishedAt" : "2019-11-22T05:23:17.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/Chn_9b0JxwPP56cT-8i3wfi28QI\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5BRjJDODk5REM0NjkzMUIy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "To note:\n- I do not own any of the vids, all credits goes to its respectful owner\n- song by: Kim Tae Woo & Ben (Oh My Venus OST)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 37,
+    "publishedAt" : "2020-04-02T20:17:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "VRl30C0OXnA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/VRl30C0OXnA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/VRl30C0OXnA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/VRl30C0OXnA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/VRl30C0OXnA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/VRl30C0OXnA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "「Darling U」 – YulYen (율옌) FMV (Jo Yuri/조유리 & Choi Yena/최예나)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Eq_1sq84OAE",
+    "videoPublishedAt" : "2018-11-25T12:46:51.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/V_3J_KVAGGmdmVRZFQ8HuHHbQuE\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4xOTEzQzhBQzU3MDNDNjcz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "MUSIC : LOCO(로꼬) , YUJU(유주) - SPRING IS GONE BY CHANCE(우연히 봄)",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 38,
+    "publishedAt" : "2020-04-06T11:24:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Eq_1sq84OAE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Eq_1sq84OAE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Eq_1sq84OAE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Eq_1sq84OAE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Eq_1sq84OAE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Eq_1sq84OAE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZ*ONE(아이즈원) - YENA(예나) & YURI(유리) (yenyul/yulyen) | SPRING IS GONE BY CHANCE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Y5rI7urzFSo",
+    "videoPublishedAt" : "2019-07-19T17:53:14.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/B8vOKayB8OecVObMPTm3qZd4Fkk\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5GNDg1Njc1QzZERjlFRjE5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 39,
+    "publishedAt" : "2020-04-08T19:42:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Y5rI7urzFSo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Y5rI7urzFSo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Y5rI7urzFSo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Y5rI7urzFSo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Y5rI7urzFSo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Y5rI7urzFSo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Yeri x Irene (Yerene) // It's You"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "emXeJhbQcMw",
+    "videoPublishedAt" : "2019-08-27T03:48:43.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/jl9eW-1D5eyIvDa0s8awzBGaPiQ\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy4zQzFBN0RGNzNFREFCMjBE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "Subscribe for more videos of izone.\n\nCredits of all of the videos and pictures, Thank you so much.\n\nStream - https://www.youtube.com/watch?v=6eEZ7...\nhttps://www.youtube.com/watch?v=WZwr2... \n\nfollow - https://twitter.com/official_izone\nhttps://www.instagram.com/official_iz...\n\nsong https://www.youtube.com/watch?v=JZELmUooBlY",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 40,
+    "publishedAt" : "2020-04-21T14:28:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "emXeJhbQcMw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/emXeJhbQcMw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/emXeJhbQcMw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/emXeJhbQcMw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/emXeJhbQcMw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "IZONE YULYEN/YENYUL[ Choi Yena X Jo Yuri ] - Moments # 11"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "hpzhzCUWj9Q",
+    "videoPublishedAt" : "2019-02-09T07:56:01.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/eAy92LA951liNdYx1ejLUrJMxkk\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy45NkVENTkxRDdCQUFBMDY4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 41,
+    "publishedAt" : "2020-04-26T16:15:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hpzhzCUWj9Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hpzhzCUWj9Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hpzhzCUWj9Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/hpzhzCUWj9Q/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hpzhzCUWj9Q/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/hpzhzCUWj9Q/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Yeri's \"It's not hard~\" ft Seulrene | Compilation"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "g81Xb-y0too",
+    "videoPublishedAt" : "2019-04-07T10:45:33.000Z"
+  },
+  "etag" : "\"wdgS91PsEbtTfi20GmzFuZzYg2s/zqKD8k3EddshLXnudxp9C27_xKM\"",
+  "id" : "UExjN2ZpWXZmOGdkQVVUOUNiNzBDbVRGREFlaXZPZGtRRy5DNkMwRUI2MkI4QkI4NDFG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCBtzaLvsrxcRvRQUiGf9Wng",
+    "channelTitle" : "Autumn Rice",
+    "description" : "song: ocean eyes cover by audrey mika (https://www.youtube.com/watch?v=Uri_iB96XRY)\n\nnone of the videos used belongs to me, credits to owners.\n\ntwitter: https://www.twitter.com/abseulute",
+    "playlistId" : "PLc7fiYvf8gdAUT9Cb70CmTFDAeivOdkQG",
+    "position" : 42,
+    "publishedAt" : "2020-04-29T17:06:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "g81Xb-y0too"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/g81Xb-y0too/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/g81Xb-y0too/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/g81Xb-y0too/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/g81Xb-y0too/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/g81Xb-y0too/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "getting to know the girl with headphones in 3 minutes"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]
